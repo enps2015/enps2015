@@ -3,7 +3,7 @@
 <p> <br> <p/>
 
 <h1 align='center'>
-  🔥 Bem-Vindo(a) :)
+  💻 Bem-Vindo(a) 👽
 </h1>
 
 <p> <br> <p/>
