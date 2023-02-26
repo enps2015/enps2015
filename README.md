@@ -23,5 +23,9 @@
 <a href="https://www.docker.com/cloud/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://kubernetes.io/pt-br/"><img height= "35" src= "https://img.shields.io/badge/kubernetes-555d85.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></a></br>
 
+## &nbsp; Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/)
+
 
 
