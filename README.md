@@ -8,6 +8,9 @@
 
 <p> <br> <p/>
 
+💻︎ Desenvolvedor Front End <br> <br>
+👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia e Planejamento DevOps" na Faculdade VINCIT<br> <br>
+
 ## ✍  Tecnologias que estou aprendendo  ✍
 
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -17,3 +20,8 @@
 <a href="aws.amazon.com/"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 <a href="aZURE.MICROSOFT.com/"><img height= "35" src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a href="https://www.oracle.com/cloud/"><img height= "35" src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a></br>
+<a href="https://www.docker.com/cloud/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://kubernetes.io/pt-br/"><img height= "35" src= "https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></a></br>
+
+
+
