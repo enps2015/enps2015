@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/18/f0/8d/18f08d43ee05d1713f6b0f53ffccc062.gif" width="100%"/><br>
+<img src="https://i.pinimg.com/originals/18/f0/8d/18f08d43ee05d1713f6b0f53ffccc062.gif" width="100%"><br>
 
 <p> <br> <p/>
 
@@ -7,3 +7,13 @@
 </h1>
 
 <p> <br> <p/>
+
+## ✍  Tecnologias que estou aprendendo  ✍
+
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a></br>
+<a href="https://www.linux.org/"><img height= "35" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a></br>
+<a href="aws.amazon.com/"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a href="aZURE.MICROSOFT.com/"><img height= "35" src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<a href="https://www.oracle.com/cloud/"><img height= "35" src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a></br>
