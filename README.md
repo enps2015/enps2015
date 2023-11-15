@@ -9,7 +9,16 @@
 <p> <br> <p/>
 
 💻︎ Desenvolvedor Front End <br> <br>
-👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia e Planejamento DevOps" na Faculdade VINCIT<br> <br>
+💻︎ Engenheiro DevOps <br> <br>
+💻︎ Analista de Cloud Computing <br> <br>
+
+
+👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na Faculdade VINCIT<br> <br>
+👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na Faculdade Metropolitana<br> <br>
+👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na INEX<br> <br>
+
+
+
 
 ## ✍  Tecnologias que estou aprendendo  ✍
 
