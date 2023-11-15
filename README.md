@@ -4,18 +4,13 @@
   💻 Bem-Vindo(a) 👽
 </h1>
 
-<p> <br> <p/>
-
-<h1 align='center'>
- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🤔 Desenvolvedor Front End.
 - 🤔 Engenheiro DevOps.
 - 🤔 Analista de Cloud Computing.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href=https://www.faculdadevincit.edu.br/">Faculdade VINCIT</a>.
+- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na [Faculdade VINCIT] (<a href=https://www.faculdadevincit.edu.br/">Faculdade VINCIT</a>).
 - 👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na <a href=https://www.faculdadevincit.edu.br/cursos/engenharia-e-planejamento-devops">Faculdade VINCIT</a>.
 - 👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na <a href=https://www.estudesemfronteiras.com/novo/cursos/mba-em-engenharia-de-software/4338?gad_source=1">Faculdade METROPOLITANA</a>.
 - 👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na <a href=https://estratego.com.br/</a>.
