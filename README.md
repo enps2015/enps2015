@@ -1,25 +1,29 @@
 <img src="https://i.pinimg.com/originals/18/f0/8d/18f08d43ee05d1713f6b0f53ffccc062.gif" width="100%"><br>
 
-<p> <br> <p/>
-
 <h1 align='center'>
   💻 Bem-Vindo(a) 👽
 </h1>
 
 <p> <br> <p/>
 
-💻︎ Desenvolvedor Front End <br> <br>
-💻︎ Engenheiro DevOps <br> <br>
-💻︎ Analista de Cloud Computing <br> <br>
+<h1 align='center'>
+ ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
+<h3>Sobre mim</h3>
 
-👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na Faculdade VINCIT<br> <br>
-👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na Faculdade Metropolitana<br> <br>
-👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na INEX<br> <br>
-
-
-
-
+- 🤔 Desenvolvedor Front End.
+- 🤔 Engenheiro DevOps.
+- 🤔 Analista de Cloud Computing.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href=https://www.faculdadevincit.edu.br/">Faculdade VINCIT</a>.
+- 👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na <a href=https://www.faculdadevincit.edu.br/cursos/engenharia-e-planejamento-devops">Faculdade VINCIT</a>.
+- 👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na <a href=https://www.estudesemfronteiras.com/novo/cursos/mba-em-engenharia-de-software/4338?gad_source=1">Faculdade METROPOLITANA</a>.
+- 👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na <a href=https://estratego.com.br/</a>.
+- 💼 Trabalhando como **VOLUNTÁRIO CLOUD AWS** na <a href=https://www.linkedin.com/company/canaldacloud/?originalSubdomain=br">Canal da Cloud</a>.
+- 🌱 &nbsp; Sempre aprendendo mais sobre **DEVOPS, DOCKER, KUBERNETES, CICD, VAGRANT, LINUX, SHELL SCRIPT, GITLAB, AWS, AZRUE, GCP E CYBERSEGURANÇA**.
+ 
+    
+</h1>
 ## <h3>Minhas Skills</h3>
 
 **Linguagens**
