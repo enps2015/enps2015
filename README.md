@@ -10,11 +10,11 @@
 - 🤔 Engenheiro DevOps.
 - 🤔 Analista de Cloud Computing.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na [Faculdade VINCIT] (<a href=https://www.faculdadevincit.edu.br/">Faculdade VINCIT</a>).
-- 👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na <a href=https://www.faculdadevincit.edu.br/cursos/engenharia-e-planejamento-devops">Faculdade VINCIT</a>.
-- 👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na <a href=https://www.estudesemfronteiras.com/novo/cursos/mba-em-engenharia-de-software/4338?gad_source=1">Faculdade METROPOLITANA</a>.
-- 👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na <a href=https://estratego.com.br/</a>.
-- 💼 Trabalhando como **VOLUNTÁRIO CLOUD AWS** na <a href=https://www.linkedin.com/company/canaldacloud/?originalSubdomain=br">Canal da Cloud</a>.
+- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na [Faculdade VINCIT](https://www.faculdadevincit.edu.br/)
+- 👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na [Faculdade VINCIT](https://www.faculdadevincit.edu.br/)
+- 👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na [Faculdade Metropolitana](https://www.estudesemfronteiras.com/novo/cursos/mba-em-engenharia-de-software/4338?gad_source=1)
+- 👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na [Faculdade Estratego/Inex](https://estratego.com.br/)
+- 💼 Trabalhando como **VOLUNTÁRIO CLOUD AWS** na [Canal da Cloud](https://www.linkedin.com/company/canaldacloud/?originalSubdomain=br)
 - 🌱 &nbsp; Sempre aprendendo mais sobre **DEVOPS, DOCKER, KUBERNETES, CICD, VAGRANT, LINUX, SHELL SCRIPT, GITLAB, AWS, AZRUE, GCP E CYBERSEGURANÇA**.
  
     
