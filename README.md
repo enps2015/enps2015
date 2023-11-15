@@ -19,7 +19,7 @@
  
     
 </h1>
-## <h3>Minhas Skills</h3>
+<h3>Minhas Skills</h3>
 
 **Linguagens**
 
