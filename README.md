@@ -6,16 +6,13 @@
 
 <h3>Sobre mim</h3>
 
-- 🤔 Desenvolvedor Front End.
-- 🤔 Engenheiro DevOps.
-- 🤔 Analista de Cloud Computing.
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- :computer: Desenvolvedor Front End.
+- :computer: Analista DevOps.
+- :computer: Analista de Cloud Computing.
+- :computer: Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na [Faculdade VINCIT](https://www.faculdadevincit.edu.br/)
 - 👨🏿‍🎓 Especialização em "Engenharia e Planejamento DevOps" na [Faculdade VINCIT](https://www.faculdadevincit.edu.br/)
-- 👨🏿‍🎓 Estudante de Pós-Graduação em "Engenharia de Software - MBA" na [Faculdade Metropolitana](https://www.estudesemfronteiras.com/novo/cursos/mba-em-engenharia-de-software/4338?gad_source=1)
-- 👨🏿‍🎓 Estudante de Pós-Graduação em "Redes de Computadores e Cloud Computing" na [Faculdade Estratego/Inex](https://estratego.com.br/)
-- 💼 Trabalhando como **VOLUNTÁRIO CLOUD AWS** na [Canal da Cloud](https://www.linkedin.com/company/canaldacloud/?originalSubdomain=br)
-- 🌱 &nbsp; Sempre aprendendo mais sobre **DEVOPS, DOCKER, KUBERNETES, CICD, VAGRANT, LINUX, SHELL SCRIPT, GITLAB, AWS, AZRUE, GCP E CYBERSEGURANÇA**.
+- 🌱 &nbsp; Sempre aprendendo mais sobre **DEVOPS, DATA SCIENCE, METODOLOGIAS ÁGEIS E CYBERSEGURANÇA**.
  
     
 </h1>
