@@ -44,7 +44,7 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-np-santos/)](https://www.linkedin.com/in/eric-np-santos/)
+[![Linkedin](https://img.shields.io/badge/-eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-np-santos/)](https://www.linkedin.com/in/eric-np-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-enps2006@yahoo.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/enps2015)
 
