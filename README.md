@@ -58,8 +58,8 @@ Sou apaixonado por desvendar os segredos escondidos nos dados e usar a Força da
 
 <h3>Projetos em Destaque</h3>
 
-**[Site Portifolio](https://github.com/enps2015/padawan-data-portfolio)**
-* Um web site onde centralizo os meus projetos na Área de Dados. Servindo de portfolio que será constantemente abastecido com projetos futuros! **[Site Portifolio](https://enps2015.github.io/padawan-data-portfolio/)**
+**[WebSite Portifolio](https://github.com/enps2015/padawan-data-portfolio)**
+* Um web site onde centralizo os meus projetos na Área de Dados. Servindo de portfolio que será constantemente abastecido com projetos futuros! **[Acesse o website aqui](https://enps2015.github.io/padawan-data-portfolio/)**
 
 **[Análise da COVID-19 no Brasil](https://github.com/enps2015/analiseCovid19v20)**
 * Um dashboard interativo que explora a evolução da pandemia no Brasil por estado, utilizando Python, Pandas e Streamlit. [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aplicativocovid19ericv20.streamlit.app/)
