@@ -1,0 +1,37 @@
+name: Atualizar calendário analítico do perfil
+
+on:
+  schedule:
+    # 07:35 no horário de Belém (UTC-3).
+    - cron: "35 10 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-visual-analytics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-calendar
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    name: Gerar calendário de contribuições
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Gerar SVG do calendário sem plugin de atividade instável
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: enps2015
+          template: classic
+          base: ""
+          config_timezone: America/Belem
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          filename: profile/metrics-overview.svg
