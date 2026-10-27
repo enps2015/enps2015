@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Eric Pimentel — Da água ao dado. Do dado à decisão. Engenharia, dados, IA e impacto socioambiental.">
+  <img src="./assets/profile-hero.gif" width="100%" alt="Banner animado de Eric Pimentel — Da água ao dado. Do dado à decisão. Engenharia, dados, IA e impacto socioambiental.">
 </p>
 
 <p align="center">
