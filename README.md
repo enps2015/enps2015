@@ -16,11 +16,13 @@
 
 ## De onde eu venho — e por que isso importa
 
-Sou engenheiro eletricista e trabalho com saneamento em Belém do Pará. Minha experiência profissional nasceu em sistemas que precisam funcionar no mundo real, onde confiabilidade, operação e consequências para as pessoas não são conceitos teóricos.
+Sou engenheiro eletricista e trabalho com saneamento em Belém do Pará. Minha relação com tecnologia não começou numa tela: começou em sistemas que precisam funcionar no mundo real, onde operação, confiabilidade e consequências para as pessoas não são conceitos teóricos.
 
-Foi desse lugar que a curiosidade por dados ganhou força: **o que conseguimos enxergar quando conectamos informações que antes estavam separadas?** Como transformar séries temporais, indicadores públicos, dados geográficos e sinais de sensores em algo que ajude alguém a decidir melhor?
+A formação em Engenharia Elétrica me ensinou a pensar em sistemas; Análise e Desenvolvimento de Sistemas aproximou esse raciocínio do software; DevOps, automação e infraestrutura ampliaram o olhar para o ciclo completo de uma solução. Hoje aprofundo Ciência de Dados, análise geoespacial e IA aplicada à sustentabilidade.
 
-Hoje, conecto essa vivência à Ciência de Dados, à IA aplicada e à construção de sistemas inteligentes. Meu recorte tem uma geografia e um propósito: **Amazônia, água, território, sustentabilidade e cidades mais inteligentes** — sem deixar de explorar tecnologias que podem servir a outros contextos.
+A pergunta que conecta essas etapas é simples: **o que conseguimos compreender quando dados que estavam separados passam a conversar?** Como transformar séries temporais, indicadores públicos, território e telemetria em evidências que ajudem alguém a decidir melhor?
+
+É daí que vem o meu recorte: **Amazônia, água, saneamento, clima, sustentabilidade e cidades inteligentes**. Não estudo essas áreas como palavras da moda; quero experimentar como engenharia, dados e IA podem ajudar a investigar problemas reais.
 
 <table>
   <tr>
@@ -55,7 +57,7 @@ Hoje, conecto essa vivência à Ciência de Dados, à IA aplicada e à construç
       </a>
       <h3>🌿 IARA · Amazônia em dados</h3>
       <p><strong>A pergunta:</strong> como tornar indicadores socioambientais mais acessíveis para quem precisa entendê-los?</p>
-      <p>Um laboratório de dados e visualização que explora informações da Amazônia e aproxima indicadores, contexto territorial e análise. O foco é fazer os dados contarem uma história compreensível — não apenas exibir gráficos.</p>
+      <p>Um painel de impacto socioambiental que aproxima indicadores climáticos e socioeconômicos, mapas regionais e análise exploratória. A camada de IA — a assistente Iara, baseada no Gemini — procura traduzir os resultados filtrados em sínteses acessíveis e recomendações contextualizadas. O desafio não é apenas exibir gráficos: é conectar variáveis, território e explicação.</p>
       <sub>CIÊNCIA DE DADOS · PYTHON · STREAMLIT · PLOTLY</sub>
       <p><a href="https://github.com/enps2015/projeto_IARA"><strong>Conhecer o projeto ↗</strong></a></p>
     </td>
@@ -65,7 +67,7 @@ Hoje, conecto essa vivência à Ciência de Dados, à IA aplicada e à construç
       </a>
       <h3>🐢 Guardião das Tartaruguinhas</h3>
       <p><strong>A pergunta:</strong> como transformar anotações de campo em acompanhamento útil para a conservação?</p>
-      <p>Um painel para acompanhar ninhos de quelônios, riscos e evolução dos registros. A interface aproxima os dados da ação comunitária e ajuda a transformar observações dispersas em uma visão mais organizada do trabalho de conservação.</p>
+      <p>Criado a partir da necessidade de digitalizar registros manuais de uma comunidade ribeirinha, o painel organiza o acompanhamento dos ninhos e ajuda voluntários a enxergar onde a atenção é mais necessária. A central de riscos, as fichas por ninho e a linha do tempo interativa transformam registros dispersos em uma história de monitoramento — do acompanhamento à eclosão.</p>
       <sub>PYTHON · STREAMLIT · VISUALIZAÇÃO · CONSERVAÇÃO</sub>
       <p><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Conhecer o projeto ↗</strong></a></p>
     </td>
@@ -77,7 +79,7 @@ Hoje, conecto essa vivência à Ciência de Dados, à IA aplicada e à construç
       </a>
       <h3>💧 Hidrômetro Inteligente · Telemetria e dados</h3>
       <p><strong>A pergunta:</strong> como testar qualidade de dados e detecção de anomalias antes de depender de uma rede física de medidores?</p>
-      <p>Simulações de consumo e telemetria hídrica para experimentar séries temporais, particionamento, integridade dos dados e pipelines. Os cenários incluem leituras em intervalos de 15 minutos e eventos anômalos simulados.</p>
+      <p>Um laboratório de dados sintéticos para estudar a engenharia que vem antes de um painel IoT: geração de telemetria com leituras a cada 15 minutos, perfis de consumo, anomalias simuladas e contexto climático/cultural. Os dados são particionados por cidade e mês, distribuídos em CSV compactado e verificados com contagens e hashes SHA-256. Isso permite experimentar pipelines e validação sem afirmar que exista uma rede física de medidores instalada.</p>
       <sub>PYTHON · IOT · SÉRIES TEMPORAIS · ENGENHARIA DE DADOS</sub>
       <p><a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><strong>Conhecer o projeto ↗</strong></a></p>
     </td>
