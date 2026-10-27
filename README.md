@@ -136,15 +136,15 @@ Estou aprofundando Ciência de Dados e análise geoespacial, conectando IA aplic
 
 ## Atividade no GitHub
 
-Estes cartões resumem parte da atividade pública e das linguagens identificadas nos repositórios. São sinais do que está publicado aqui — **não uma medida completa de conhecimento, experiência ou impacto**.
+Os cartões abaixo usam o último snapshot de estatísticas que já estava publicado no repositório; são visuais estáveis, em português, e não dependem de uma API de terceiros para aparecer. Eles indicam atividade e composição do código público — **não medem domínio técnico, experiência ou impacto**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./profile/stats.svg" width="100%" alt="Resumo das estatísticas públicas do GitHub">
+      <img src="./profile/metricas-github.svg" width="100%" alt="Métricas do GitHub em português: estrelas, commits, pull requests, issues e repositórios contribuídos">
     </td>
     <td width="50%" valign="top">
-      <img src="./profile/top-langs.svg" width="100%" alt="Distribuição das linguagens detectadas nos repositórios públicos">
+      <img src="./profile/linguagens-github.svg" width="100%" alt="Distribuição das linguagens dos repositórios públicos em português">
     </td>
   </tr>
 </table>
