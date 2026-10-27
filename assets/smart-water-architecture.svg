@@ -1,11 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
-<title id="title">Smart Hydrometer data pipeline</title><desc id="desc">Conceptual pipeline from simulated meter telemetry through data validation and processing to analytics.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081426"/><stop offset="1" stop-color="#12243a"/></linearGradient><linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
-<rect width="900" height="330" rx="22" fill="url(#bg)"/><circle cx="760" cy="30" r="120" fill="#22d3ee" opacity=".06"/>
-<g font-family="Arial,sans-serif"><text x="38" y="42" fill="#67e8f9" font-size="12" font-weight="700" letter-spacing="3">SMART WATER · DATA ENGINEERING</text><text x="38" y="76" fill="#f1f5f9" font-size="25" font-weight="700">From telemetry to insight</text>
-<g><rect x="38" y="115" width="190" height="130" rx="14" fill="#122c42" stroke="#256477"/><text x="57" y="151" fill="#67e8f9" font-size="12">01 / INPUT</text><text x="57" y="183" fill="#f8fafc" font-size="18" font-weight="700">Simulate</text><text x="57" y="210" fill="#a8c2d4" font-size="12">Meter events</text><text x="57" y="228" fill="#a8c2d4" font-size="12">Time-series records</text></g>
-<g><rect x="258" y="115" width="190" height="130" rx="14" fill="#122c42" stroke="#256477"/><text x="277" y="151" fill="#67e8f9" font-size="12">02 / QUALITY</text><text x="277" y="183" fill="#f8fafc" font-size="18" font-weight="700">Validate</text><text x="277" y="210" fill="#a8c2d4" font-size="12">Schema & integrity</text><text x="277" y="228" fill="#a8c2d4" font-size="12">Missing / invalid data</text></g>
-<g><rect x="478" y="115" width="190" height="130" rx="14" fill="#122c42" stroke="#256477"/><text x="497" y="151" fill="#67e8f9" font-size="12">03 / PIPELINE</text><text x="497" y="183" fill="#f8fafc" font-size="18" font-weight="700">Process</text><text x="497" y="210" fill="#a8c2d4" font-size="12">ETL & partitioning</text><text x="497" y="228" fill="#a8c2d4" font-size="12">Time-series features</text></g>
-<g><rect x="698" y="115" width="164" height="130" rx="14" fill="#12372f" stroke="#2dd4bf"/><text x="717" y="151" fill="#99f6e4" font-size="12">04 / INSIGHT</text><text x="717" y="183" fill="#f8fafc" font-size="18" font-weight="700">Analyze</text><text x="717" y="210" fill="#b7e5d8" font-size="12">Anomaly signals</text><text x="717" y="228" fill="#b7e5d8" font-size="12">Operational insight</text></g>
-<g stroke="url(#a)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M230 180h22m-7-7 7 7-7 7"/><path d="M450 180h22m-7-7 7 7-7 7"/><path d="M670 180h22m-7-7 7 7-7 7"/></g>
-<text x="38" y="285" fill="#a8c2d4" font-size="12">Conceptual architecture · not a claim of deployed infrastructure</text><text x="862" y="285" fill="#67e8f9" font-size="12" text-anchor="end">PYTHON / IOT / DATA QUALITY</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+  <title id="title">Hidrômetro inteligente — do sinal à análise</title>
+  <desc id="desc">Fluxo conceitual em português para estudar telemetria hídrica: geração de leituras, validação, processamento e análise de anomalias.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset=".58" stop-color="#0B2030"/><stop offset="1" stop-color="#151B32"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".55" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#2D5266" stroke-width=".65" opacity=".38"/></pattern>
+  </defs>
+  <rect width="1000" height="350" rx="22" fill="url(#bg)"/>
+  <rect width="1000" height="350" rx="22" fill="url(#grid)"/>
+  <circle cx="905" cy="32" r="145" fill="#22D3EE" opacity=".04"/>
+  <text x="38" y="39" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5" fill="#67E8F9">IOT · TELEMETRIA · ENGENHARIA DE DADOS</text>
+  <text x="38" y="76" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="#F2F7FA">Do consumo simulado ao sinal de anomalia</text>
+  <text x="39" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#ABC3D1">Um laboratório de dados para experimentar antes de conectar sensores reais.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="38" y="127" width="207" height="145" rx="15" fill="#102A3E" stroke="#2DD4BF" stroke-opacity=".63"/>
+    <circle cx="65" cy="154" r="12" fill="#173C48" stroke="#2DD4BF"/>
+    <text x="65" y="158" text-anchor="middle" font-size="10" font-weight="800" fill="#99F6E4">01</text>
+    <text x="86" y="158" font-size="11" font-weight="700" letter-spacing="1.2" fill="#99F6E4">GERAR</text>
+    <text x="56" y="193" font-size="19" font-weight="800" fill="#F8FAFC">Telemetria</text>
+    <text x="56" y="218" font-size="12" fill="#B8CEDB">Leituras de consumo</text>
+    <text x="56" y="236" font-size="12" fill="#B8CEDB">Séries de 15 minutos</text>
+    <g stroke="#2DD4BF" stroke-width="1.5" fill="none" opacity=".85"><path d="M56 254h12l6-8 8 12 8-17 8 10 9-4 7 7 9-9 8 5h18"/></g>
+
+    <rect x="287" y="127" width="207" height="145" rx="15" fill="#10283B" stroke="#67E8F9" stroke-opacity=".63"/>
+    <circle cx="314" cy="154" r="12" fill="#173749" stroke="#67E8F9"/>
+    <text x="314" y="158" text-anchor="middle" font-size="10" font-weight="800" fill="#CFFAFE">02</text>
+    <text x="335" y="158" font-size="11" font-weight="700" letter-spacing="1.2" fill="#A5F3FC">VALIDAR</text>
+    <text x="305" y="193" font-size="19" font-weight="800" fill="#F8FAFC">Qualidade</text>
+    <text x="305" y="218" font-size="12" fill="#B8CEDB">Integridade e esquema</text>
+    <text x="305" y="236" font-size="12" fill="#B8CEDB">Ausências e inconsistências</text>
+    <g fill="#67E8F9"><circle cx="311" cy="254" r="3"/><circle cx="323" cy="254" r="3"/><circle cx="335" cy="254" r="3"/></g>
+
+    <rect x="536" y="127" width="207" height="145" rx="15" fill="#17283B" stroke="#60A5FA" stroke-opacity=".6"/>
+    <circle cx="563" cy="154" r="12" fill="#23364F" stroke="#60A5FA"/>
+    <text x="563" y="158" text-anchor="middle" font-size="10" font-weight="800" fill="#DBEAFE">03</text>
+    <text x="584" y="158" font-size="11" font-weight="700" letter-spacing="1.2" fill="#BFDBFE">PROCESSAR</text>
+    <text x="554" y="193" font-size="19" font-weight="800" fill="#F8FAFC">Pipeline</text>
+    <text x="554" y="218" font-size="12" fill="#B8CEDB">Particionamento e ETL</text>
+    <text x="554" y="236" font-size="12" fill="#B8CEDB">Preparação para análise</text>
+    <g stroke="#60A5FA" stroke-width="1.5" fill="none"><rect x="554" y="249" width="26" height="12" rx="3"/><rect x="585" y="249" width="26" height="12" rx="3"/><rect x="616" y="249" width="26" height="12" rx="3"/></g>
+
+    <rect x="785" y="127" width="177" height="145" rx="15" fill="#12342F" stroke="#2DD4BF" stroke-opacity=".8"/>
+    <circle cx="812" cy="154" r="12" fill="#194840" stroke="#2DD4BF"/>
+    <text x="812" y="158" text-anchor="middle" font-size="10" font-weight="800" fill="#D1FAE5">04</text>
+    <text x="833" y="158" font-size="11" font-weight="700" letter-spacing="1.2" fill="#A7F3D0">ANALISAR</text>
+    <text x="803" y="193" font-size="19" font-weight="800" fill="#F8FAFC">Anomalias</text>
+    <text x="803" y="218" font-size="12" fill="#B7E5D8">Vazamentos simulados</text>
+    <text x="803" y="236" font-size="12" fill="#B7E5D8">Padrões fora do esperado</text>
+    <path d="M803 257l12-5 9 4 11-16 10 10 10-7 12 4 12-11" stroke="#2DD4BF" stroke-width="1.8" fill="none"/>
+  </g>
+
+  <g stroke="url(#line)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 199h31m-8-7 8 7-8 7"/>
+    <path d="M499 199h31m-8-7 8 7-8 7"/>
+    <path d="M748 199h31m-8-7 8 7-8 7"/>
+  </g>
+  <text x="38" y="315" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11.5" fill="#9FB8C8">Projeto experimental com dados sintéticos · arquitetura conceitual, não uma implantação física em produção.</text>
+  <text x="962" y="315" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1" fill="#67E8F9">DADOS → EVIDÊNCIA</text>
+</svg>
