@@ -1,0 +1,36 @@
+name: Generate animated profile banner
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/profile-hero.svg"
+      - "scripts/generate_profile_hero.py"
+      - ".github/workflows/generate-profile-hero.yml"
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Install render dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick librsvg2-bin
+          python -m pip install --upgrade pip
+          python -m pip install Pillow
+      - name: Render animated GIF
+        run: python scripts/generate_profile_hero.py
+      - name: Commit generated banner
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-hero.gif
+          if git diff --cached --quiet; then
+            echo "Animated banner is already current."
+            exit 0
+          fi
+          git commit -m "Build animated profile banner"
+          git push origin main
