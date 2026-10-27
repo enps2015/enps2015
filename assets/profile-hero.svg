@@ -1,84 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="heroTitle heroDesc">
-  <title id="heroTitle">Eric Pimentel — Dados, IA e Sistemas Inteligentes</title>
-  <desc id="heroDesc">Banner tecnológico escuro com redes neurais abstratas em ciano, turquesa e violeta.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Eric Pimentel — Da água ao dado. Do dado à decisão.</title>
+  <desc id="desc">Identidade visual tecnológica que conecta água, território amazônico, engenharia, dados e inteligência artificial, com linhas topográficas e uma rede luminosa de dados.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#080D18"/>
-      <stop offset="55%" stop-color="#0C1424"/>
-      <stop offset="100%" stop-color="#10162B"/>
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset=".52" stop-color="#0B1A2B"/>
+      <stop offset="1" stop-color="#17152F"/>
     </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.18"/>
-      <stop offset="45%" stop-color="#67E8F9"/>
-      <stop offset="75%" stop-color="#2DD4BF"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.78"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset=".56" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.72"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.10"/>
+    <linearGradient id="river" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity=".12"/>
+      <stop offset=".48" stop-color="#67E8F9" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity=".56"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#244154" stroke-width="0.8" opacity="0.48"/>
-      <circle cx="0" cy="0" r="1.1" fill="#3A7186" opacity="0.65"/>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#31506A" stroke-width=".7" opacity=".34"/>
+      <circle cx="0" cy="0" r="1" fill="#6B9FB0" opacity=".55"/>
+    </pattern>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#75D8E8" opacity=".26"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="24" fill="url(#grid)" opacity="0.70"/>
-  <path d="M 0 286 C 210 255, 355 324, 550 270 S 880 205, 1200 250" fill="none" stroke="#153447" stroke-width="1.5"/>
-  <path d="M 0 302 C 220 268, 390 334, 600 281 S 910 220, 1200 264" fill="none" stroke="#153447" stroke-width="1"/>
-  <path d="M 620 0 L 770 0 L 910 115 L 1200 115" fill="none" stroke="#1C4558" stroke-width="1.2"/>
-  <path d="M 720 0 L 850 0 L 1006 142 L 1200 142" fill="none" stroke="#1C4558" stroke-width="1.2"/>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="170" rx="330" ry="260" fill="url(#glow)"/>
+  <path d="M0 0H1200V360H0Z" fill="url(#dots)" opacity=".42"/>
 
-  <g fill="none" stroke="url(#signal)" stroke-linecap="round">
-    <path d="M 650 58 C 770 58, 770 160, 890 160 S 1020 76, 1200 76" stroke-width="2.5" opacity="0.92"/>
-    <path d="M 650 92 C 770 92, 800 188, 920 188 S 1032 112, 1200 112" stroke-width="1.8" opacity="0.76"/>
-    <path d="M 690 235 C 790 235, 850 156, 960 156 S 1080 224, 1200 224" stroke-width="2.2" opacity="0.72"/>
-    <path d="M 750 275 C 850 275, 865 208, 960 208 S 1090 265, 1200 265" stroke-width="1.4" opacity="0.5"/>
+  <!-- Topografia abstrata: território e água -->
+  <g fill="none" stroke="#2B6573" stroke-width="1" opacity=".38">
+    <path d="M660 22C740 54 730 83 805 84S902 35 988 54 1112 90 1195 55"/>
+    <path d="M642 36C727 69 719 101 801 104S908 54 991 73 1108 111 1200 76"/>
+    <path d="M632 54C712 85 707 121 798 125S913 75 998 94 1103 132 1200 98"/>
+    <path d="M644 294C720 260 747 281 801 250S883 189 957 208 1097 272 1199 228"/>
+    <path d="M630 313C711 277 748 303 809 270S885 210 961 229 1091 293 1200 249"/>
+    <path d="M650 333C720 302 758 324 815 291S893 233 968 249 1097 315 1200 272"/>
   </g>
 
-  <g stroke="url(#edge)" stroke-width="1.15" fill="none" opacity="0.72">
-    <path d="M 790 52 L 865 105 L 925 72 L 1006 128 L 1086 84 L 1155 126"/>
-    <path d="M 790 238 L 858 190 L 930 228 L 1001 178 L 1072 218 L 1152 185"/>
-    <path d="M 925 72 L 930 228"/>
-    <path d="M 1006 128 L 1001 178"/>
-    <path d="M 1086 84 L 1072 218"/>
+  <!-- Rede de sinais e caminhos -->
+  <g fill="none" stroke="url(#river)" stroke-linecap="round">
+    <path d="M670 70C752 70 757 145 844 145S943 78 1013 102 1101 156 1195 126" stroke-width="3"/>
+    <path d="M668 106C749 106 774 177 848 177S938 112 1014 136 1112 191 1193 164" stroke-width="1.8" opacity=".84"/>
+    <path d="M684 235C755 235 791 187 858 210S954 279 1032 249 1112 205 1195 225" stroke-width="2.5" opacity=".78"/>
+    <path d="M730 275C799 275 820 232 878 249S967 311 1037 283 1121 244 1194 263" stroke-width="1.7" opacity=".62"/>
+  </g>
+  <g stroke="#75D8E8" fill="none" stroke-width="1.2" opacity=".68">
+    <path d="M780 58L841 106L914 87L970 139L1049 111L1112 151"/>
+    <path d="M770 264L836 221L904 254L970 218L1036 258L1115 221"/>
+    <path d="M914 87L904 254M970 139L970 218M1049 111L1036 258"/>
   </g>
   <g fill="#67E8F9">
-    <circle cx="790" cy="52" r="3.5"/><circle cx="865" cy="105" r="4"/>
-    <circle cx="925" cy="72" r="3"/><circle cx="1006" cy="128" r="4.5"/>
-    <circle cx="1086" cy="84" r="3.5"/><circle cx="1155" cy="126" r="3"/>
+    <circle cx="780" cy="58" r="3.5"/><circle cx="841" cy="106" r="4.5"/><circle cx="914" cy="87" r="3.5"/>
+    <circle cx="970" cy="139" r="5"/><circle cx="1049" cy="111" r="3.8"/><circle cx="1112" cy="151" r="3"/>
   </g>
   <g fill="#2DD4BF">
-    <circle cx="790" cy="238" r="3"/><circle cx="858" cy="190" r="4"/>
-    <circle cx="930" cy="228" r="3.5"/><circle cx="1001" cy="178" r="4"/>
-    <circle cx="1072" cy="218" r="3"/><circle cx="1152" cy="185" r="4"/>
+    <circle cx="770" cy="264" r="3"/><circle cx="836" cy="221" r="4"/><circle cx="904" cy="254" r="3.8"/>
+    <circle cx="970" cy="218" r="4.5"/><circle cx="1036" cy="258" r="3.2"/><circle cx="1115" cy="221" r="4"/>
   </g>
-  <circle cx="1006" cy="128" r="12" fill="none" stroke="#67E8F9" stroke-opacity="0.32"/>
-  <circle cx="1001" cy="178" r="11" fill="none" stroke="#2DD4BF" stroke-opacity="0.30"/>
+  <circle cx="970" cy="139" r="11" fill="none" stroke="#67E8F9" stroke-opacity=".5">
+    <animate attributeName="r" values="8;15;8" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".55;.12;.55" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="970" cy="218" r="10" fill="none" stroke="#2DD4BF" stroke-opacity=".4">
+    <animate attributeName="r" values="7;14;7" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".5;.08;.5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#E0FBFF">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M670 70C752 70 757 145 844 145S943 78 1013 102 1101 156 1195 126"/>
+  </circle>
+  <circle r="3" fill="#99F6E4">
+    <animateMotion dur="8.5s" repeatCount="indefinite" path="M684 235C755 235 791 187 858 210S954 279 1032 249 1112 205 1195 225"/>
+  </circle>
 
-  <rect x="62" y="46" width="8" height="8" rx="2" fill="#2DD4BF"/>
-  <text x="82" y="54" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#9FB9C8">ENGENHARIA  /  DADOS  /  IA APLICADA</text>
+  <!-- Identidade editorial -->
+  <rect x="60" y="43" width="7" height="7" rx="2" fill="#2DD4BF"/>
+  <text x="82" y="51" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.7" fill="#9CB6C9">ENGENHARIA · DADOS · IMPACTO</text>
 
-  <text x="62" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="800" letter-spacing="-1.2" fill="#F1F5F9">ERIC PIMENTEL</text>
-  <text x="64" y="177" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650" fill="#67E8F9">Da infraestrutura ao insight.</text>
-  <text x="64" y="209" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="450" fill="#C7D8E4">Dados • Sistemas inteligentes • Impacto real</text>
+  <text x="59" y="126" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="45" font-weight="800" letter-spacing="-1.5" fill="#F3F8FC">ERIC PIMENTEL</text>
+  <rect x="61" y="145" width="76" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="60" y="184" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#67E8F9">Da água ao dado.</text>
+  <text x="60" y="216" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#F3F8FC">Do dado à decisão.</text>
+  <text x="62" y="246" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#B9CEDB">Dados, IA e sistemas inteligentes com os pés no mundo real.</text>
 
-  <g>
-    <rect x="62" y="252" width="198" height="32" rx="16" fill="#102A36" stroke="#2DD4BF" stroke-opacity="0.68"/>
-    <circle cx="80" cy="268" r="4" fill="#2DD4BF"/>
-    <text x="94" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#C9F8F0">SUSTENTABILIDADE</text>
-    <rect x="272" y="252" width="118" height="32" rx="16" fill="#111F35" stroke="#67E8F9" stroke-opacity="0.56"/>
-    <circle cx="290" cy="268" r="4" fill="#67E8F9"/>
-    <text x="304" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#D7F8FF">IOT / EDGE</text>
-    <rect x="402" y="252" width="154" height="32" rx="16" fill="#211C39" stroke="#A78BFA" stroke-opacity="0.56"/>
-    <circle cx="420" cy="268" r="4" fill="#A78BFA"/>
-    <text x="434" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#E4DDFE">DATA SCIENCE</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing=".7">
+    <rect x="60" y="270" width="194" height="31" rx="15.5" fill="#0F2D35" stroke="#2DD4BF" stroke-opacity=".65"/>
+    <circle cx="76" cy="285.5" r="3.5" fill="#2DD4BF"/>
+    <text x="88" y="289" fill="#CBF7ED">ÁGUA · AMAZÔNIA · CLIMA</text>
+    <rect x="264" y="270" width="119" height="31" rx="15.5" fill="#102A3C" stroke="#67E8F9" stroke-opacity=".55"/>
+    <circle cx="280" cy="285.5" r="3.5" fill="#67E8F9"/>
+    <text x="292" y="289" fill="#D5F7FF">DADOS · IA</text>
+    <rect x="393" y="270" width="135" height="31" rx="15.5" fill="#211D3A" stroke="#A78BFA" stroke-opacity=".58"/>
+    <circle cx="409" cy="285.5" r="3.5" fill="#A78BFA"/>
+    <text x="421" y="289" fill="#E6DDFE">IOT · EDGE AI</text>
   </g>
 
-  <text x="1138" y="45" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#6F8A9B">FIELD NOTES / 2026</text>
-  <path d="M 62 311 L 1138 311" stroke="#254154" stroke-width="1"/>
-  <text x="62" y="328" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.2" fill="#6F8A9B">APRENDER • CONSTRUIR • VALIDAR • COMPARTILHAR</text>
-  <text x="1138" y="328" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.2" fill="#6F8A9B">BELÉM, PARÁ — BRASIL</text>
+  <path d="M60 319H1140" stroke="#254256" stroke-width="1"/>
+  <text x="60" y="339" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.1" fill="#7E9AAA">APRENDER → CONSTRUIR → VALIDAR → COMPARTILHAR</text>
+  <text x="1140" y="339" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.1" fill="#7E9AAA">BELÉM · PARÁ · BRASIL</text>
 </svg>
