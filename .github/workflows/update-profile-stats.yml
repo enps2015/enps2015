@@ -1,0 +1,61 @@
+name: Atualizar cartões analíticos do perfil
+
+on:
+  # Atualização diária às 07:23 no horário de Belém (UTC-3).
+  schedule:
+    - cron: "23 10 * * *"
+  workflow_dispatch:
+  # A primeira execução acontece ao incorporar/alterar este workflow na main.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Gerar cartões SVG locais
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout do perfil
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Gerar estatísticas públicas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=enps2015&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=2DD4BF&text_color=C7D8E4
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gerar resumo de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=enps2015&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D8E4
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Publicar cartões atualizados no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "Os cartões já estão atualizados; nenhum commit necessário."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh analytics cards"
+          git push origin HEAD:main

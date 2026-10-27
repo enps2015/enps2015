@@ -1,10 +1,16 @@
 name: Atualizar animação de contribuições
 
 on:
+  # Primeiro processamento quando a configuração chega à main.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-snake.yml"
   # Atualização diária às 07:17 no horário de Belém (UTC-3).
   schedule:
     - cron: "17 10 * * *"
-  # Permite gerar os arquivos manualmente após a configuração.
+  # Permite gerar os arquivos manualmente.
   workflow_dispatch:
 
 permissions:
@@ -18,6 +24,7 @@ jobs:
   generate:
     name: Gerar e publicar SVG
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Gerar animação da grade de contribuições
         uses: Platane/snk/svg-only@v3
