@@ -103,7 +103,7 @@ Meu jeito de aprender é mão na massa: construir protótipos, documentar decis�
 </p>
 
 <p align="center">
-  <sub>A animação é gerada automaticamente pelo GitHub Actions. Após incorporar esta proposta, execute manualmente o workflow <strong>Atualizar animação de contribuições</strong> uma vez para publicar os arquivos iniciais.</sub>
+  <sub>A primeira geração é disparada quando esta configuração chega à branch <code>main</code>; depois, os SVGs são atualizados diariamente e também podem ser gerados manualmente pela aba <strong>Actions</strong>.</sub>
 </p>
 
 ---
