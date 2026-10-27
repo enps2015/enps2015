@@ -32,7 +32,7 @@ Não quero acumular tecnologias como uma lista. Quero **conectar engenharia, dad
 <p>O IARA Data Hub é um observatório de dados para a Região Metropolitana de Belém. Conecta fontes públicas como SNIS/SINISA, DATASUS/SIH, IBGE e INMET para investigar lacunas de informação, desigualdades entre municípios e relações entre saneamento, saúde e clima. O recorte estruturado reúne sete municípios e o período de 2017 a 2025, respeitando as diferenças de cobertura e atualização entre as fontes.</p>
 <p>O objetivo não é usar um gráfico para declarar causalidade: é tornar os dados comparáveis, explicitar limitações e ajudar a formular perguntas melhores sobre a realidade local.</p>
 <p><strong>Foco técnico:</strong> integração de dados · análise exploratória · indicadores · visualização · geografia</p>
-<p><a href="https://github.com/enps2015/iara-data-hub"><strong>Explorar o projeto no GitHub ↗</strong></a></p>
+<p><a href="https://github.com/enps2015/iara-data-hub"><strong>Explorar o projeto no GitHub ↗</strong></a> · <a href="https://enps2015.github.io/iara-data-hub/"><strong>Abrir dashboard ↗</strong></a></p>
 <br clear="right">
 
 <hr>
@@ -52,7 +52,7 @@ Não quero acumular tecnologias como uma lista. Quero **conectar engenharia, dad
 <p><strong>A pergunta:</strong> como transformar registros de campo em acompanhamento útil para quem protege ninhos de quelônios?</p>
 <p>O projeto surgiu da necessidade de digitalizar anotações de uma comunidade ribeirinha. O painel organiza o monitoramento, destaca situações de risco e reúne fichas por ninho e uma linha do tempo interativa. A proposta é diminuir a distância entre o registro de uma observação e sua utilidade no trabalho de conservação.</p>
 <p><strong>Foco técnico:</strong> Python · Streamlit · visualização · storytelling de dados</p>
-<p><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Explorar o projeto ↗</strong></a></p>
+<p><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Explorar o projeto ↗</strong></a> · <a href="https://guardiao-das-tartaruguinhas.streamlit.app/"><strong>Abrir demonstração ↗</strong></a></p>
 <br clear="right">
 
 <hr>
