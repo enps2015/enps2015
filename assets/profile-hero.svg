@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Fallback estático do banner; a versão GIF é gerada por scripts/generate_profile_hero.py. -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Eric Pimentel — Da água ao dado. Do dado à decisão.</title>
   <desc id="desc">Identidade visual tecnológica que conecta água, território amazônico, engenharia, dados e inteligência artificial, com linhas topográficas e uma rede luminosa de dados.</desc>
