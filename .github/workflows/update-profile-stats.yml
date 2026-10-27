@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=enps2015&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=2DD4BF&text_color=C7D8E4
+          options: username=enps2015&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=2DD4BF&text_color=C7D8E4&locale=pt-br
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=enps2015&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D8E4
+          options: username=enps2015&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D8E4&locale=pt-br
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
