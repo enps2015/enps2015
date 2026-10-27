@@ -66,99 +66,74 @@ Não quero acumular tecnologias como uma lista. Quero **conectar engenharia, dad
 <h3>📘 Sistemas Embarcados Inteligentes — IoT e Edge AI</h3>
 <p><strong>Projeto editorial em desenvolvimento.</strong> O eBook conecta fundamentos de sistemas embarcados a aplicações com Arduino Uno R3 e BitDogLab v6.3 (RP2040/Pico W), explorando IoT, processamento na borda e TinyML. A intenção é construir uma ponte prática entre engenharia, sensores, dados e aplicações reais, com documentação técnica estruturada.</p>
 
-## Formação que amplia meu campo de atuação
+## Formação: conexões que se reforçam
 
-### Gêmeo Digital com 5G · TIC51
+<img src="./assets/constelacao-formacao.svg" width="100%" alt="Constelação visual que conecta dados e sustentabilidade, Gêmeos Digitais e 5G, agentes inteligentes e cognição humana; destaca o 10º lugar no ranking TIC51 e a indicação para a residência UniFacens.">
 
-O curso levou-me a explorar projetos e materiais ligados a Gêmeos Digitais, conectividade e aplicação prática. Terminei a formação em **10º lugar no ranking final dos alunos** e recebi indicação para a etapa da Residência Tecnológica em Sorocaba, no polo UniFacens. Como a residência era totalmente presencial, não consegui me inscrever. Ainda assim, fiquei muito feliz com o resultado: foi um reconhecimento concreto do trabalho desenvolvido ao longo do curso.
+Minha formação vem se organizando em torno de quatro eixos que se alimentam mutuamente — e não como uma sequência de cursos independentes.
 
-### InsurMinds · I2A2 — agentes inteligentes aplicados a seguros
+**Dados e território.** A pós-graduação em Ciência de Dados na Gran Faculdade, a formação em IA para Sustentabilidade (I2A2 + UFPA) e o curso de Análise de Dados Geoespaciais do IBGE fortalecem a base analítica dos projetos que conectam saneamento, saúde, clima e desigualdades territoriais na Amazônia.
 
-O InsurMinds aproximou meu estudo de agentes inteligentes de um contexto de negócio específico: seguros. O que mais me interessa nesse campo é ir além de um modelo que apenas responde a uma pergunta e investigar sistemas capazes de cumprir etapas de trabalho, usar ferramentas e contexto, avaliar resultados e manter supervisão humana. Quero aprofundar arquitetura, coordenação, avaliação e confiabilidade de agentes aplicados.
+**Sistemas inteligentes no mundo físico.** No curso de Gêmeo Digital com 5G (TIC51), trabalhei com conceitos e aplicações ligados à conectividade e a sistemas digitais conectados ao mundo real. Terminei em **10º lugar no ranking final dos alunos** e fui indicado para a etapa da Residência Tecnológica em Sorocaba, no polo UniFacens. Como a residência era totalmente presencial, não consegui me inscrever; ainda assim, considero o resultado um marco importante da minha trajetória.
 
-### IA para Sustentabilidade · I2A2 + UFPA
+**Agentes que executam tarefas, não apenas respondem.** O InsurMinds, da I2A2, levou meu interesse por agentes inteligentes para o domínio de seguros. Quero aprofundar arquitetura, uso de ferramentas e contexto, coordenação de etapas, avaliação e confiabilidade — sempre considerando os limites do sistema e a supervisão humana.
 
-Essa formação ajudou a consolidar o eixo socioambiental dos meus projetos: usar dados e IA para investigar problemas de sustentabilidade, comunicar evidências e construir experiências de análise mais acessíveis. O IARA é uma das expressões práticas desse interesse.
+**A dimensão humana da tecnologia.** As pós-graduações em Ciência de Dados e Interação Humano-Computador e em Neuroaprendizagem, Dificuldades e Transtornos ampliam a pergunta técnica: além de produzir uma resposta correta, como desenhar informação e interação para que as pessoas consigam compreender, aprender e decidir? Esse interesse orienta meu estudo de cognição, atenção, memória e carga cognitiva para visualização de dados, interfaces educacionais e experiências com sistemas inteligentes.
 
-### Análise de Dados Geoespaciais · IBGE
+Essa formação técnica também se conecta à participação no **Programa Embaixadores Estudantis Google Brasil 2026**, que me permite explorar e compartilhar aplicações do ecossistema Google em aprendizagem, dados e desenvolvimento.
 
-A formação em análise geoespacial amplia minha capacidade de trabalhar com o contexto territorial dos indicadores — mapas, recortes regionais e relações entre localização e fenômenos socioambientais. É uma competência especialmente útil para os projetos ligados à Amazônia urbana.
+## Stack tecnológica — dados e sistemas inteligentes no centro
 
-### Embaixadores Estudantis Google Brasil · 2026
+A organização abaixo acompanha a forma como trabalho e estudo: primeiro dados e modelos; depois pipelines, IA, sistemas embarcados e infraestrutura. Os ícones usam uma grade visual compacta, em vez de selos retangulares.
 
-Também participo do Programa Embaixadores Estudantis Google Brasil 2026. Esse eixo complementa a prática técnica com experimentação e compartilhamento de usos do ecossistema Google para aprender, analisar dados e desenvolver aplicações.
+### Ciência de Dados · Machine Learning
 
-### Ciência de Dados, interação humano-computador e neuroaprendizagem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,pytorch,tensorflow,r&theme=dark&perline=6" alt="Python, Anaconda, scikit-learn, PyTorch, TensorFlow e R">
+</p>
+<p align="center"><sub>Pandas · NumPy · Jupyter · análise exploratória · estatística · séries temporais · visualização</sub></p>
 
-Minha formação em Ciência de Dados na Gran Faculdade está ligada a uma pergunta técnica: como sair dos dados e chegar a uma explicação útil? As pós-graduações de **Ciência de Dados e Interação Humano-Computador** e **Neuroaprendizagem, Dificuldades e Transtornos** ampliam esse caminho com uma dimensão que considero essencial: as pessoas que vão interpretar e usar os sistemas.
+### Engenharia de Dados · Analytics · Geoespacial
 
-Estudar cognição não é um adorno de interface. É uma forma de investigar como atenção, memória, carga cognitiva, aprendizagem e tomada de decisão influenciam a compreensão de informações. Quero aplicar esse olhar com rigor ao design de visualizações, interfaces de dados, ferramentas educacionais e experiências com agentes inteligentes — sem tratar conceitos de neurociência como justificativa automática para qualquer escolha de design.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,grafana,d3&theme=dark&perline=6" alt="PostgreSQL, MySQL, SQLite, MongoDB, Grafana e D3">
+</p>
+<p align="center"><sub>SQL · BigQuery · Databricks · Power BI · Looker Studio · Plotly · Streamlit · QGIS</sub></p>
 
-## Stack tecnológica — foco em dados, IA e sistemas inteligentes
+### IA aplicada · LLMs · Agentes inteligentes
 
-<h3>📊 Ciência de Dados &amp; Machine Learning</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,githubactions&theme=dark&perline=5" alt="Python, FastAPI, Flask, Git e GitHub Actions">
+</p>
+<p align="center"><sub>Modelos de linguagem · agentes com ferramentas · contexto · avaliação · IA para sustentabilidade</sub></p>
+
+### IoT · Sistemas embarcados · Edge AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark&perline=3" alt="Arduino, Raspberry Pi e Linux">
+</p>
+<p align="center"><sub>BitDogLab v6.3 · RP2040 / Pico W · TinyML · Edge AI · 5G · Gêmeos Digitais</sub></p>
+
+### DevOps · Infraestrutura · Ferramentas de construção
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,githubactions,aws,azure,gcp&theme=dark&perline=6" alt="Git, GitHub, Linux, Docker, Kubernetes, GitHub Actions, AWS, Azure e Google Cloud">
 </p>
 
-<h3>🗄️ Engenharia de Dados, Analytics &amp; Geoespacial</h3>
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI">
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" alt="Looker Studio">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS">
-</p>
+### Interfaces para produtos de dados
 
-<h3>🤖 IA aplicada &amp; Engenharia de Agentes</h3>
-<p>
-  <img src="https://img.shields.io/badge/IA%20generativa-6E56CF?style=flat-square" alt="IA generativa">
-  <img src="https://img.shields.io/badge/LLMs-4B5563?style=flat-square" alt="Modelos de linguagem">
-  <img src="https://img.shields.io/badge/Agentes%20inteligentes-6D28D9?style=flat-square" alt="Agentes inteligentes">
-  <img src="https://img.shields.io/badge/Engenharia%20de%20prompts-7C3AED?style=flat-square" alt="Engenharia de prompts">
-  <img src="https://img.shields.io/badge/IA%20para%20sustentabilidade-0F766E?style=flat-square" alt="IA aplicada à sustentabilidade">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,html,css,js,ts,react&theme=dark&perline=7" alt="Figma, VS Code, HTML, CSS, JavaScript, TypeScript e React">
 </p>
+<p align="center"><sub>Interface é uma camada de entrega e comunicação dos projetos — não o eixo central do meu perfil.</sub></p>
 
-<h3>🌐 IoT, Sistemas Embarcados, Edge AI &amp; Gêmeos Digitais</h3>
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico">
-  <img src="https://img.shields.io/badge/BitDogLab%20%2F%20RP2040-7C3AED?style=flat-square" alt="BitDogLab e RP2040">
-  <img src="https://img.shields.io/badge/IoT-0F766E?style=flat-square" alt="Internet das Coisas">
-  <img src="https://img.shields.io/badge/TinyML-155E75?style=flat-square" alt="TinyML">
-  <img src="https://img.shields.io/badge/Edge%20AI-0369A1?style=flat-square" alt="Edge AI">
-  <img src="https://img.shields.io/badge/5G-334155?style=flat-square" alt="5G">
-  <img src="https://img.shields.io/badge/G%C3%AAmeos%20Digitais-4338CA?style=flat-square" alt="Gêmeos Digitais">
-</p>
+## O cenário por trás das áreas que estudo
 
-<h3>⚙️ DevOps &amp; Infraestrutura</h3>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white" alt="openSUSE">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/CI%2FCD-475569?style=flat-square" alt="CI/CD">
-</p>
+Não queria deixar a seção de analytics restrita aos números da minha conta. Este segundo gráfico conecta minhas áreas de interesse a duas fontes externas: a mudança esperada nas competências profissionais até 2030 e a demanda energética associada à expansão dos data centers para IA.
 
-<h3>🧠 Interação Humano-Computador, Neuroaprendizagem &amp; Design</h3>
-<p>
-  <img src="https://img.shields.io/badge/IHC-0E7490?style=flat-square" alt="Interação Humano-Computador">
-  <img src="https://img.shields.io/badge/Neuroaprendizagem-7E22CE?style=flat-square" alt="Neuroaprendizagem">
-  <img src="https://img.shields.io/badge/Neurodesign-6D28D9?style=flat-square" alt="Neurodesign">
-  <img src="https://img.shields.io/badge/UX%2FUI-334155?style=flat-square" alt="UX/UI">
-</p>
+<img src="./assets/tendencias-estudos-2030.svg" width="100%" alt="Gráficos de contexto: saldo líquido de expectativa para competências profissionais até 2030, incluindo IA e Big Data, cibersegurança, pensamento analítico e sustentabilidade; e consumo elétrico global de data centers em 2025 e 2030.">
 
-<p><sub>Desenvolvimento web (HTML, CSS e JavaScript) entra como camada de interface para demonstrar e comunicar aplicações de dados; não é o eixo central da minha atuação.</sub></p>
+<sub>Fontes: <a href="https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf">World Economic Forum — Future of Jobs Report 2025</a>, figura 3.4; <a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">International Energy Agency — Key Questions on Energy and AI</a>. No painel de competências, o valor é o saldo líquido entre empregadores que esperam aumento e diminuição da importância da competência — não é uma previsão de crescimento de vagas. Os dados de energia são uma projeção global para data centers, não uma estimativa específica do Brasil.</sub>
 
 ## Analytics do GitHub
 
