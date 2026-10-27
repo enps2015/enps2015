@@ -1,122 +1,49 @@
+<p align="center"><img src="./assets/profile-hero.svg" width="100%" alt="Eric Pimentel — Data, AI and intelligent systems"></p>
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Eric Pimentel — Ciência de Dados, IA Aplicada e Sistemas Inteligentes" width="100%" />
+<a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-0E7490?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://github.com/enps2015?tab=repositories"><img src="https://img.shields.io/badge/BUILD-PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-<p align="center">
-  <a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-explorar-0E7490?style=flat-square&logo=githubpages&logoColor=white" alt="Explorar portfólio" /></a>
-  <a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/LINKEDIN-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:enps2006@yahoo.com.br"><img src="https://img.shields.io/badge/EMAIL-conversar-334155?style=flat-square&logo=minutemailer&logoColor=white" alt="E-mail" /></a>
-</p>
-
-<p align="center">
-  <strong>Engenharia Elétrica → Sistemas → Dados & IA</strong><br/>
-  Ciência de Dados · IA aplicada · Sustentabilidade · IoT & Edge
-</p>
+<p align="center"><strong>ENGINEERING × DATA × AI × IMPACT</strong><br><sub>Electrical Engineering → Systems → Data Science & Intelligent Systems</sub></p>
 
 ---
 
-## 🧭 Quem sou
+## ✦ Selected work
 
-Sou **Engenheiro Eletricista e Analista de Sistemas**, construindo uma trajetória que conecta engenharia, análise de dados, inteligência artificial e sistemas inteligentes.
+<table><tr>
+<td width="58%" valign="top"><a href="https://github.com/enps2015/projeto_IARA"><img src="https://raw.githubusercontent.com/enps2015/projeto_IARA/main/assets/images/captura_tela01.png" width="100%" alt="IARA environmental and socioeconomic data dashboard"></a></td>
+<td width="42%" valign="top"><h3>🌳 IARA · Amazon Socioenvironmental Intelligence</h3><p>Interactive environmental and socioeconomic indicators, geographic views and AI-assisted insight experiments.</p><sub>PYTHON · STREAMLIT · PLOTLY · DATA ANALYSIS</sub><br><a href="https://github.com/enps2015/projeto_IARA"><strong>Explore source →</strong></a></td>
+</tr><tr>
+<td width="58%" valign="top"><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><img src="https://raw.githubusercontent.com/enps2015/guardiao-das-tartaruguinhas/main/assets/screenshots/tela01.png" width="100%" alt="Turtle conservation monitoring dashboard"></a></td>
+<td width="42%" valign="top"><h3>🐢 Guardião das Tartaruguinhas</h3><p>Community monitoring of turtle nests, risk tracking and conservation storytelling.</p><sub>PYTHON · STREAMLIT · VISUALIZATION</sub><br><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Explore source →</strong></a></td>
+</tr></table>
 
-Gosto de transformar perguntas do mundo real em projetos que possam ser explorados, testados e explicados. Meu interesse especial está em **saneamento, sustentabilidade, IoT, cidades inteligentes e análise orientada por dados**.
-
-Meu jeito de aprender é mão na massa: construir protótipos, documentar decisões, verificar a qualidade dos dados e compartilhar o conhecimento. Continuo aprofundando meus estudos em Ciência de Dados, IA aplicada, engenharia de dados e automação.
-
-## 🧪 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌳 <a href="https://github.com/enps2015/projeto_IARA">IARA — Impacto Socioambiental da Amazônia</a></h3>
-      <p>Dashboard para explorar indicadores ambientais e socioeconômicos, com visualizações geográficas, filtros dinâmicos e experimentação com geração de insights por IA.</p>
-      <p><sub>Python · Streamlit · Plotly · análise de dados · IA aplicada</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐢 <a href="https://github.com/enps2015/guardiao-das-tartaruguinhas">Guardião das Tartaruguinhas</a></h3>
-      <p>Dashboard de monitoramento comunitário de ninhos de quelônios na Amazônia, com acompanhamento de riscos, fichas de monitoramento e storytelling temporal.</p>
-      <p><sub>Python · Streamlit · visualização · tecnologia socioambiental</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💧 <a href="https://github.com/enps2015/smart-hydrometer-data-simulation">Smart Hydrometer Data Simulation</a></h3>
-      <p>Telemetria hídrica sintética para experimentar engenharia de dados, séries temporais, detecção de anomalias, particionamento e validação de integridade.</p>
-      <p><sub>Python · dados sintéticos · ETL · qualidade de dados · IoT</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://enps2015.github.io/padawan-data-portfolio/">Padawan Data Portfolio</a></h3>
-      <p>Meu portfólio web, com identidade visual inspirada em ficção científica para apresentar projetos, competências e minha jornada na área de dados.</p>
-      <p><sub>HTML · CSS · JavaScript · UX/UI · visualização</sub></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/enps2015?tab=repositories"><strong>Explorar todos os repositórios →</strong></a>
-</p>
-
-## 🧰 Tecnologias e áreas de exploração
-
-<p><strong>Ciência de Dados & IA</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,postgres&theme=dark" alt="Python, Scikit-learn, PyTorch, TensorFlow e PostgreSQL" /></a>
-</p>
-
-<p><strong>Engenharia, DevOps & Cloud</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,azure&theme=dark" alt="Git, GitHub, Linux, Docker, Kubernetes, AWS e Azure" /></a>
-</p>
-
-<p><strong>IoT, Edge & construção de interfaces</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,html,css,js,ts,react,vscode,figma&theme=dark" alt="Arduino, Raspberry Pi, HTML, CSS, JavaScript, TypeScript, React, VS Code e Figma" /></a>
-</p>
-
-<p>
-  <sub>Também exploro Pandas, NumPy, SQL, Streamlit, Plotly, Power BI, Looker Studio e ferramentas de automação. Os ícones identificam tecnologias do meu ecossistema de estudos e projetos — não representam, isoladamente, uma certificação ou um nível uniforme de proficiência.</sub>
-</p>
-
-## 📊 GitHub em dados
-
-<p align="center">
-  <a href="https://github.com/enps2015">
-    <img height="165" src="./profile/stats.svg" alt="Estatísticas públicas do GitHub de Eric Pimentel" />
-  </a>
-  <a href="https://github.com/enps2015?tab=repositories">
-    <img height="165" src="./profile/top-langs.svg" alt="Linguagens detectadas nos repositórios públicos" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Os cartões são gerados pelo GitHub Actions, armazenados neste repositório e atualizados diariamente. As métricas representam atividade pública; linguagens detectadas não medem, por si só, domínio técnico.</sub>
-</p>
-
-### 🐍 Contribuições ao longo do tempo
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake.svg" />
-    <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>A primeira geração é disparada quando esta configuração chega à branch <code>main</code>; depois, os SVGs são atualizados diariamente e também podem ser gerados manualmente pela aba <strong>Actions</strong>.</sub>
-</p>
+<table><tr>
+<td width="50%" valign="top"><a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><img src="./assets/smart-water-architecture.svg" width="100%" alt="Smart water telemetry data pipeline diagram"></a><h3>💧 Smart Hydrometer</h3><p>Synthetic telemetry for time series, ETL, data quality and anomaly detection.</p><sub>PYTHON · IOT · DATA ENGINEERING</sub><br><a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><strong>Explore repository →</strong></a></td>
+<td width="50%" valign="top"><a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://raw.githubusercontent.com/enps2015/padawan-data-portfolio/main/imagens/portfolio-full-screen.png" width="100%" alt="Padawan Data Portfolio website"></a><h3>🚀 Padawan Data Portfolio</h3><p>A science-fiction-inspired web portfolio for projects and data experiments.</p><sub>HTML · CSS · JAVASCRIPT · UX/UI</sub><br><a href="https://enps2015.github.io/padawan-data-portfolio/"><strong>Open live portfolio →</strong></a></td>
+</tr></table>
+<p align="center"><a href="https://github.com/enps2015?tab=repositories"><strong>＋ Explore all repositories</strong></a></p>
 
 ---
 
-## 🤝 Vamos trocar ideias?
+## ◈ GitHub analytics lab
+<p align="center"><sub>Automatically generated from public activity. These visuals describe activity, not skill level.</sub></p>
+<p align="center"><img src="./profile/metrics-overview.svg" width="100%" alt="Contribution calendar and activity analytics"></p>
+<p align="center"><img src="./profile/metrics-languages.svg" width="49%" alt="Language analytics"><img src="./profile/stats.svg" width="49%" alt="GitHub statistics"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake-dark.svg" width="100%" alt="Animated contribution grid"></p>
 
-Estou sempre interessado em aprender com outras pessoas, compartilhar descobertas e colaborar em projetos que usem dados e tecnologia para resolver problemas reais.
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ericpimentel-dados/">LinkedIn</a> ·
-  <a href="https://enps2015.github.io/padawan-data-portfolio/">Portfólio</a> ·
-  <a href="https://github.com/enps2015?tab=repositories">Repositórios</a> ·
-  <a href="mailto:enps2006@yahoo.com.br">E-mail</a>
-</p>
+## ⚙️ Technology ecosystem
+<table><tr>
+<td width="50%" valign="top"><strong>DATA SCIENCE & APPLIED AI</strong><br><br><img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,postgres&theme=dark" alt="Python, ML and PostgreSQL"></td>
+<td width="50%" valign="top"><strong>DATA ENGINEERING, DEVOPS & CLOUD</strong><br><br><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,azure&theme=dark" alt="DevOps and cloud tools"></td>
+</tr><tr>
+<td width="50%" valign="top"><strong>IOT, EMBEDDED & EDGE</strong><br><br><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino and Raspberry Pi"></td>
+<td width="50%" valign="top"><strong>WEB, INTERFACES & TOOLING</strong><br><br><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vscode,figma&theme=dark" alt="Web and design tools"></td>
+</tr></table>
+<sub>Icons represent tools in my learning and project ecosystem, not certifications or uniform proficiency.</sub>
 
-<p align="center"><sub>Feito com curiosidade, pensamento crítico e aprendizagem contínua. ✨</sub></p>
+## ✉ Connect & collaborate
+<p align="center"><a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"></a> <a href="mailto:enps2006@yahoo.com.br"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=minutemailer&logoColor=white"></a></p>
+<p align="center"><sub>Curiosity, critical thinking and lifelong learning. ✨</sub></p>
