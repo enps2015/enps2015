@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="210" viewBox="0 0 660 210" role="img" aria-labelledby="t d">
+<title id="t">Retrato do GitHub em indicadores</title>
+<desc id="d">Resumo em português dos indicadores públicos encontrados no arquivo de estatísticas do perfil: estrelas, commits nos últimos doze meses, pull requests, issues e repositórios contribuídos. É um retrato estático, não um painel em tempo real.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset="1" stop-color="#15172B"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".55" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+</defs>
+<rect width="660" height="210" rx="18" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="659" height="209" rx="17.5" fill="none" stroke="#294154"/>
+<text x="26" y="33" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">RETRATO DO GITHUB</text>
+<text x="26" y="54" fill="#AFC3D2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Indicadores do último snapshot de estatísticas disponível no perfil</text>
+<path d="M26 69H634" stroke="#294154"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <rect x="24" y="84" width="112" height="86" rx="11" fill="#10283A" stroke="#2DD4BF" stroke-opacity=".55"/>
+  <circle cx="43" cy="103" r="4" fill="#2DD4BF"/>
+  <text x="37" y="132" fill="#F3F8FC" font-size="25" font-weight="800">16</text>
+  <text x="37" y="151" fill="#AFC8D7" font-size="11">Estrelas</text>
+
+  <rect x="148" y="84" width="112" height="86" rx="11" fill="#10283A" stroke="#67E8F9" stroke-opacity=".55"/>
+  <circle cx="167" cy="103" r="4" fill="#67E8F9"/>
+  <text x="161" y="132" fill="#F3F8FC" font-size="25" font-weight="800">207</text>
+  <text x="161" y="151" fill="#AFC8D7" font-size="11">Commits · 12 meses</text>
+
+  <rect x="272" y="84" width="112" height="86" rx="11" fill="#10283A" stroke="#60A5FA" stroke-opacity=".55"/>
+  <circle cx="291" cy="103" r="4" fill="#60A5FA"/>
+  <text x="285" y="132" fill="#F3F8FC" font-size="25" font-weight="800">21</text>
+  <text x="285" y="151" fill="#AFC8D7" font-size="11">Pull requests</text>
+
+  <rect x="396" y="84" width="112" height="86" rx="11" fill="#10283A" stroke="#A78BFA" stroke-opacity=".55"/>
+  <circle cx="415" cy="103" r="4" fill="#A78BFA"/>
+  <text x="409" y="132" fill="#F3F8FC" font-size="25" font-weight="800">4</text>
+  <text x="409" y="151" fill="#AFC8D7" font-size="11">Issues</text>
+
+  <rect x="520" y="84" width="116" height="86" rx="11" fill="#10283A" stroke="#2DD4BF" stroke-opacity=".55"/>
+  <circle cx="539" cy="103" r="4" fill="#2DD4BF"/>
+  <text x="533" y="132" fill="#F3F8FC" font-size="25" font-weight="800">4</text>
+  <text x="533" y="151" fill="#AFC8D7" font-size="10.5">Repos. contribuídos</text>
+</g>
+<text x="26" y="192" fill="#7897A9" font-family="ui-monospace,Consolas,monospace" font-size="9.5" letter-spacing=".5">SINAL DE ATIVIDADE · NÃO É MEDIDA DE PROFICIÊNCIA</text>
+</svg>
