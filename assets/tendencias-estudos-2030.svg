@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700" role="img" aria-labelledby="title desc">
+  <title id="title">Tendências que cruzam ciência de dados, IA, sistemas inteligentes e sustentabilidade</title>
+  <desc id="desc">Gráfico de barras com saldos líquidos de expectativa de aumento da importância de competências profissionais entre 2025 e 2030, baseado no Future of Jobs Report 2025 do World Economic Forum. Painel lateral compara consumo global de eletricidade de data centers em 2025 e previsão para 2030 segundo a IEA de 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset=".6" stop-color="#0B1D2D"/><stop offset="1" stop-color="#17162E"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".65" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <linearGradient id="energy" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#31516A" stroke-width=".7" opacity=".23"/></pattern>
+  </defs>
+  <rect width="1280" height="700" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="700" rx="22" fill="url(#grid)"/>
+  <text x="34" y="38" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">LEITURA DE CENÁRIO · DADOS PARA CONTEXTUALIZAR OS ESTUDOS</text>
+  <text x="34" y="70" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">O que está ganhando importância — e a que custo?</text>
+  <text x="34" y="95" fill="#A9C0CF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Duas lentes para o mesmo ecossistema: transformação das competências e impacto material da infraestrutura de IA.</text>
+
+  <rect x="28" y="124" width="810" height="516" rx="17" fill="#0D2030" stroke="#29475C"/>
+  <text x="52" y="157" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">Competências em ascensão · 2025–2030</text>
+  <text x="52" y="179" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5">Saldo líquido de expectativa dos empregadores (pontos percentuais)</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g fill="#E8F0F6" font-size="11.5">
+      <text x="52" y="217">IA e Big Data</text>
+      <text x="52" y="258">Redes e cibersegurança</text>
+      <text x="52" y="299">Alfabetização tecnológica</text>
+      <text x="52" y="340">Pensamento criativo</text>
+      <text x="52" y="381">Curiosidade e aprendizagem contínua</text>
+      <text x="52" y="422">Pensamento analítico</text>
+      <text x="52" y="463">Sustentabilidade ambiental</text>
+      <text x="52" y="504">Pensamento sistêmico</text>
+      <text x="52" y="545">Design e experiência do usuário</text>
+      <text x="52" y="586">Programação</text>
+    </g>
+    <g fill="#193044">
+      <rect x="330" y="202" width="400" height="12" rx="6"/>
+      <rect x="330" y="243" width="400" height="12" rx="6"/>
+      <rect x="330" y="284" width="400" height="12" rx="6"/>
+      <rect x="330" y="325" width="400" height="12" rx="6"/>
+      <rect x="330" y="366" width="400" height="12" rx="6"/>
+      <rect x="330" y="407" width="400" height="12" rx="6"/>
+      <rect x="330" y="448" width="400" height="12" rx="6"/>
+      <rect x="330" y="489" width="400" height="12" rx="6"/>
+      <rect x="330" y="530" width="400" height="12" rx="6"/>
+      <rect x="330" y="571" width="400" height="12" rx="6"/>
+    </g>
+    <g fill="url(#bar)">
+      <rect x="330" y="202" width="348" height="12" rx="6"/>
+      <rect x="330" y="243" width="280" height="12" rx="6"/>
+      <rect x="330" y="284" width="272" height="12" rx="6"/>
+      <rect x="330" y="325" width="264" height="12" rx="6"/>
+      <rect x="330" y="366" width="244" height="12" rx="6"/>
+      <rect x="330" y="407" width="220" height="12" rx="6"/>
+      <rect x="330" y="448" width="212" height="12" rx="6"/>
+      <rect x="330" y="489" width="204" height="12" rx="6"/>
+      <rect x="330" y="530" width="180" height="12" rx="6"/>
+      <rect x="330" y="571" width="108" height="12" rx="6"/>
+    </g>
+    <g fill="#F2F7FB" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="800" text-anchor="end">
+      <text x="786" y="212">+87</text>
+      <text x="786" y="253">+70</text>
+      <text x="786" y="294">+68</text>
+      <text x="786" y="335">+66</text>
+      <text x="786" y="376">+61</text>
+      <text x="786" y="417">+55</text>
+      <text x="786" y="458">+53</text>
+      <text x="786" y="499">+51</text>
+      <text x="786" y="540">+45</text>
+      <text x="786" y="581">+27</text>
+    </g>
+  </g>
+  <text x="52" y="614" fill="#7897A9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Não é crescimento de vagas: é o saldo entre empregadores que esperam aumento</text>
+  <text x="52" y="628" fill="#7897A9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">e diminuição da importância dessas competências, conforme pesquisa do WEF.</text>
+
+  <rect x="858" y="124" width="394" height="516" rx="17" fill="#0D2030" stroke="#29475C"/>
+  <text x="882" y="157" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">IA também tem uma pegada física</text>
+  <text x="882" y="179" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5">Eletricidade consumida por data centers no mundo</text>
+  <text x="882" y="195" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5">(TWh por ano; cenário da IEA)</text>
+  <path d="M900 457H1211" stroke="#29475C" stroke-width="1.2"/>
+  <g>
+    <rect x="930" y="339" width="82" height="118" rx="7" fill="url(#energy)" opacity=".78"/>
+    <rect x="1080" y="225" width="82" height="232" rx="7" fill="url(#energy)"/>
+    <text x="971" y="324" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">485</text>
+    <text x="1121" y="210" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">950</text>
+    <text x="971" y="479" text-anchor="middle" fill="#E8F0F6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">2025</text>
+    <text x="1121" y="479" text-anchor="middle" fill="#E8F0F6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">2030</text>
+    <path d="M1020 285H1064m-8-7 8 7-8 7" stroke="#A78BFA" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1050" y="265" text-anchor="middle" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">~2×</text>
+  </g>
+  <rect x="882" y="512" width="346" height="91" rx="12" fill="#142A3B" stroke="#2DD4BF" stroke-opacity=".5"/>
+  <text x="900" y="537" fill="#99F6E4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing=".7">POR QUE ISSO IMPORTA</text>
+  <text x="900" y="558" fill="#DCEAF2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Ciência de Dados e IA exigem método;</text>
+  <text x="900" y="575" fill="#DCEAF2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">sustentabilidade exige medir também</text>
+  <text x="900" y="592" fill="#DCEAF2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">energia, infraestrutura e consequências.</text>
+
+  <text x="30" y="672" fill="#7897A9" font-family="ui-monospace,Consolas,monospace" font-size="9.5">FONTES: WORLD ECONOMIC FORUM · FUTURE OF JOBS REPORT 2025 | INTERNATIONAL ENERGY AGENCY · KEY QUESTIONS ON ENERGY AND AI (2026)</text>
+  <text x="1250" y="688" text-anchor="end" fill="#7897A9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5">CONTEXTO GLOBAL · NÃO É PROJEÇÃO DE EMPREGO NO BRASIL</text>
+</svg>
