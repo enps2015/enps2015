@@ -1,4 +1,4 @@
-name: Atualizar calendário analítico do perfil
+name: Atualizar analytics visuais do perfil
 
 on:
   schedule:
@@ -10,28 +10,40 @@ on:
       - main
     paths:
       - ".github/workflows/profile-visual-analytics.yml"
+      - "scripts/generate_profile_analytics.py"
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-contribution-calendar
+  group: profile-visual-analytics
   cancel-in-progress: false
 
 jobs:
-  calendar:
-    name: Gerar calendário de contribuições
+  generate:
+    name: Gerar painel analítico em português
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
-      - name: Gerar SVG do calendário sem plugin de atividade instável
-        uses: lowlighter/metrics@latest
+      - name: Checkout do perfil
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: enps2015
-          template: classic
-          base: ""
-          config_timezone: America/Belem
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          filename: profile/metrics-overview.svg
+          ref: main
+
+      - name: Consultar a API pública do GitHub e gerar SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_analytics.py
+
+      - name: Publicar painel atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/metrics-overview.svg
+          if git diff --cached --quiet; then
+            echo "Painel já está atualizado."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh public GitHub analytics"
+          git pull --rebase origin main
+          git push origin main
