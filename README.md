@@ -1,85 +1,122 @@
-<img src="https://github.com/enps2015/enps2015/assets/84017071/d0769c92-cac2-4aa5-9930-216b0768b34f" width="100%" />
-
-<h1 align="center">💻 Eric Pimentel — Dados, IA & Sustentabilidade 🌱</h1>
-
 <p align="center">
-  <b>Data Science • Machine Learning • IoT / Edge • IA para Sustentabilidade</b><br/>
-  📍 Belém-PA • disponível para remoto/híbrido
+  <img src="./assets/profile-hero.svg" alt="Eric Pimentel — Ciência de Dados, IA Aplicada e Sistemas Inteligentes" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://enps2015.github.io/padawan-data-portfolio/"><b>Portfólio</b></a> •
-  <a href="https://github.com/enps2015/curriculo"><b>Currículo (repo)</b></a> •
-  <a href="https://www.linkedin.com/in/eric-np-santos/"><b>LinkedIn</b></a> •
-  <a href="mailto:enps2006@yahoo.com.br"><b>Email</b></a>
+  <a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-explorar-0E7490?style=flat-square&logo=githubpages&logoColor=white" alt="Explorar portfólio" /></a>
+  <a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/LINKEDIN-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:enps2006@yahoo.com.br"><img src="https://img.shields.io/badge/EMAIL-conversar-334155?style=flat-square&logo=minutemailer&logoColor=white" alt="E-mail" /></a>
+</p>
+
+<p align="center">
+  <strong>Engenharia Elétrica → Sistemas → Dados & IA</strong><br/>
+  Ciência de Dados · IA aplicada · Sustentabilidade · IoT & Edge
 </p>
 
 ---
 
-## 👽 Sobre mim
+## 🧭 Quem sou
 
-Sou Engenheiro Eletricista e Analista de Sistemas migrando forte para **Dados/IA** com foco em **impacto real**:
-**IA para Sustentabilidade**, **IoT/Edge** e **Machine Learning** aplicados a problemas do mundo físico (cidades, ambiente, sensores e dados).
+Sou **Engenheiro Eletricista e Analista de Sistemas**, construindo uma trajetória que conecta engenharia, análise de dados, inteligência artificial e sistemas inteligentes.
 
-**O que eu busco agora:** vagas em **Dados** (Analista / Cientista / Eng. de Dados Jr/Pleno), de preferência **home office** ou **híbrido em Belém**.
+Gosto de transformar perguntas do mundo real em projetos que possam ser explorados, testados e explicados. Meu interesse especial está em **saneamento, sustentabilidade, IoT, cidades inteligentes e análise orientada por dados**.
+
+Meu jeito de aprender é mão na massa: construir protótipos, documentar decisões, verificar a qualidade dos dados e compartilhar o conhecimento. Continuo aprofundando meus estudos em Ciência de Dados, IA aplicada, engenharia de dados e automação.
+
+## 🧪 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌳 <a href="https://github.com/enps2015/projeto_IARA">IARA — Impacto Socioambiental da Amazônia</a></h3>
+      <p>Dashboard para explorar indicadores ambientais e socioeconômicos, com visualizações geográficas, filtros dinâmicos e experimentação com geração de insights por IA.</p>
+      <p><sub>Python · Streamlit · Plotly · análise de dados · IA aplicada</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐢 <a href="https://github.com/enps2015/guardiao-das-tartaruguinhas">Guardião das Tartaruguinhas</a></h3>
+      <p>Dashboard de monitoramento comunitário de ninhos de quelônios na Amazônia, com acompanhamento de riscos, fichas de monitoramento e storytelling temporal.</p>
+      <p><sub>Python · Streamlit · visualização · tecnologia socioambiental</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 <a href="https://github.com/enps2015/smart-hydrometer-data-simulation">Smart Hydrometer Data Simulation</a></h3>
+      <p>Telemetria hídrica sintética para experimentar engenharia de dados, séries temporais, detecção de anomalias, particionamento e validação de integridade.</p>
+      <p><sub>Python · dados sintéticos · ETL · qualidade de dados · IoT</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 <a href="https://enps2015.github.io/padawan-data-portfolio/">Padawan Data Portfolio</a></h3>
+      <p>Meu portfólio web, com identidade visual inspirada em ficção científica para apresentar projetos, competências e minha jornada na área de dados.</p>
+      <p><sub>HTML · CSS · JavaScript · UX/UI · visualização</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/enps2015?tab=repositories"><strong>Explorar todos os repositórios →</strong></a>
+</p>
+
+## 🧰 Tecnologias e áreas de exploração
+
+<p><strong>Ciência de Dados & IA</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,postgres&theme=dark" alt="Python, Scikit-learn, PyTorch, TensorFlow e PostgreSQL" /></a>
+</p>
+
+<p><strong>Engenharia, DevOps & Cloud</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,azure&theme=dark" alt="Git, GitHub, Linux, Docker, Kubernetes, AWS e Azure" /></a>
+</p>
+
+<p><strong>IoT, Edge & construção de interfaces</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,html,css,js,ts,react,vscode,figma&theme=dark" alt="Arduino, Raspberry Pi, HTML, CSS, JavaScript, TypeScript, React, VS Code e Figma" /></a>
+</p>
+
+<p>
+  <sub>Também exploro Pandas, NumPy, SQL, Streamlit, Plotly, Power BI, Looker Studio e ferramentas de automação. Os ícones identificam tecnologias do meu ecossistema de estudos e projetos — não representam, isoladamente, uma certificação ou um nível uniforme de proficiência.</sub>
+</p>
+
+## 📊 GitHub em dados
+
+<p align="center">
+  <a href="https://github.com/enps2015">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=enps2015&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=2DD4BF&text_color=C7D8E4" alt="Estatísticas públicas do GitHub de Eric Pimentel" />
+  </a>
+  <a href="https://github.com/enps2015?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=enps2015&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D8E4" alt="Distribuição de linguagens nos repositórios públicos" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Os cartões dependem de um serviço externo e podem ter cache ou indisponibilidade. A distribuição de linguagens descreve código detectado nos repositórios — não mede, por si só, domínio técnico.</sub>
+</p>
+
+### 🐍 Contribuições ao longo do tempo
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake.svg" />
+    <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>A animação é gerada automaticamente pelo GitHub Actions. Após incorporar esta proposta, execute manualmente o workflow <strong>Atualizar animação de contribuições</strong> uma vez para publicar os arquivos iniciais.</sub>
+</p>
 
 ---
 
-## 🧰 Skills & Ferramentas (badges estáveis)
+## 🤝 Vamos trocar ideias?
 
-### 📊 Dados & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+Estou sempre interessado em aprender com outras pessoas, compartilhar descobertas e colaborar em projetos que usem dados e tecnologia para resolver problemas reais.
 
-### 🤖 Machine Learning & IA
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ericpimentel-dados/">LinkedIn</a> ·
+  <a href="https://enps2015.github.io/padawan-data-portfolio/">Portfólio</a> ·
+  <a href="https://github.com/enps2015?tab=repositories">Repositórios</a> ·
+  <a href="mailto:enps2006@yahoo.com.br">E-mail</a>
+</p>
 
-### 📈 Visualização / BI
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-### 🌱 IA para Sustentabilidade • IoT • Edge
-![IoT](https://img.shields.io/badge/IoT-0A84FF?style=for-the-badge&logo=iota&logoColor=white)
-![Edge Computing](https://img.shields.io/badge/Edge%20Computing-111111?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### ⚙️ DevOps / Cloud (base para dados)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 🚀 Projetos em destaque (com foco em 2025)
-
-- **Projeto IARA (IA + Sustentabilidade)** — dados/IA aplicados a contexto socioambiental  
-  👉 https://github.com/enps2015/projeto_IARA
-
-- **Smart Hydrometer Data Simulation (dataset + engenharia de dados)**  
-  👉 https://github.com/enps2015/smart-hydrometer-data-simulation
-
-- **Guardião das Tartaruguinhas (projeto sustentável / IA aplicada)**  
-  👉 https://github.com/enps2015/guardiao-das-tartaruguinhas
-
-- **Dio Adventure Works (dashboard com Streamlit)**  
-  👉 https://github.com/enps2015/DioAdventureWorks
-
-📌 Portfólio central (site): https://github.com/enps2015/padawan-data-portfolio  
-📄 Currículo completo: https://github.com/enps2015/curriculo
-
----
-
-## 🤝 Vamos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--np--santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/)
-[![Email](https://img.shields.io/badge/Email-enps2006%40yahoo.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enps2006@yahoo.com.br)
-[![GitHub Followers](https://img.shields.io/badge/Follow%20on%20GitHub-enps2015-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enps2015)
+<p align="center"><sub>Feito com curiosidade, pensamento crítico e aprendizagem contínua. ✨</sub></p>
