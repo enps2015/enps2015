@@ -63,6 +63,9 @@ Não quero acumular tecnologias como uma lista. Quero **conectar engenharia, dad
 <h3>🌐 DT Academy — tornar Gêmeos Digitais e 5G mais compreensíveis</h3>
 <p>Uma iniciativa educacional que aproxima formação em Gêmeos Digitais e 5G de infográficos, design de informação e princípios de aprendizagem. O projeto nasce da experiência em construir materiais e recursos para explicar conceitos técnicos sem reduzir a complexidade do assunto.</p>
 
+<h3>📘 Sistemas Embarcados Inteligentes — IoT e Edge AI</h3>
+<p><strong>Projeto editorial em desenvolvimento.</strong> O eBook conecta fundamentos de sistemas embarcados a aplicações com Arduino Uno R3 e BitDogLab v6.3 (RP2040/Pico W), explorando IoT, processamento na borda e TinyML. A intenção é construir uma ponte prática entre engenharia, sensores, dados e aplicações reais, com documentação técnica estruturada.</p>
+
 ## Formação que amplia meu campo de atuação
 
 ### Gêmeo Digital com 5G · TIC51
@@ -76,6 +79,14 @@ O InsurMinds aproximou meu estudo de agentes inteligentes de um contexto de neg�
 ### IA para Sustentabilidade · I2A2 + UFPA
 
 Essa formação ajudou a consolidar o eixo socioambiental dos meus projetos: usar dados e IA para investigar problemas de sustentabilidade, comunicar evidências e construir experiências de análise mais acessíveis. O IARA é uma das expressões práticas desse interesse.
+
+### Análise de Dados Geoespaciais · IBGE
+
+A formação em análise geoespacial amplia minha capacidade de trabalhar com o contexto territorial dos indicadores — mapas, recortes regionais e relações entre localização e fenômenos socioambientais. É uma competência especialmente útil para os projetos ligados à Amazônia urbana.
+
+### Embaixadores Estudantis Google Brasil · 2026
+
+Também participo do Programa Embaixadores Estudantis Google Brasil 2026. Esse eixo complementa a prática técnica com experimentação e compartilhamento de usos do ecossistema Google para aprender, analisar dados e desenvolver aplicações.
 
 ### Ciência de Dados, interação humano-computador e neuroaprendizagem
 
