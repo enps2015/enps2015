@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Eric Pimentel — Dados, IA e Sistemas Inteligentes</title>
+  <desc id="heroDesc">Banner tecnológico escuro com redes neurais abstratas em ciano, turquesa e violeta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080D18"/>
+      <stop offset="55%" stop-color="#0C1424"/>
+      <stop offset="100%" stop-color="#10162B"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="45%" stop-color="#67E8F9"/>
+      <stop offset="75%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.78"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.10"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#244154" stroke-width="0.8" opacity="0.48"/>
+      <circle cx="0" cy="0" r="1.1" fill="#3A7186" opacity="0.65"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)" opacity="0.70"/>
+  <path d="M 0 286 C 210 255, 355 324, 550 270 S 880 205, 1200 250" fill="none" stroke="#153447" stroke-width="1.5"/>
+  <path d="M 0 302 C 220 268, 390 334, 600 281 S 910 220, 1200 264" fill="none" stroke="#153447" stroke-width="1"/>
+  <path d="M 620 0 L 770 0 L 910 115 L 1200 115" fill="none" stroke="#1C4558" stroke-width="1.2"/>
+  <path d="M 720 0 L 850 0 L 1006 142 L 1200 142" fill="none" stroke="#1C4558" stroke-width="1.2"/>
+
+  <g fill="none" stroke="url(#signal)" stroke-linecap="round">
+    <path d="M 650 58 C 770 58, 770 160, 890 160 S 1020 76, 1200 76" stroke-width="2.5" opacity="0.92"/>
+    <path d="M 650 92 C 770 92, 800 188, 920 188 S 1032 112, 1200 112" stroke-width="1.8" opacity="0.76"/>
+    <path d="M 690 235 C 790 235, 850 156, 960 156 S 1080 224, 1200 224" stroke-width="2.2" opacity="0.72"/>
+    <path d="M 750 275 C 850 275, 865 208, 960 208 S 1090 265, 1200 265" stroke-width="1.4" opacity="0.5"/>
+  </g>
+
+  <g stroke="url(#edge)" stroke-width="1.15" fill="none" opacity="0.72">
+    <path d="M 790 52 L 865 105 L 925 72 L 1006 128 L 1086 84 L 1155 126"/>
+    <path d="M 790 238 L 858 190 L 930 228 L 1001 178 L 1072 218 L 1152 185"/>
+    <path d="M 925 72 L 930 228"/>
+    <path d="M 1006 128 L 1001 178"/>
+    <path d="M 1086 84 L 1072 218"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="790" cy="52" r="3.5"/><circle cx="865" cy="105" r="4"/>
+    <circle cx="925" cy="72" r="3"/><circle cx="1006" cy="128" r="4.5"/>
+    <circle cx="1086" cy="84" r="3.5"/><circle cx="1155" cy="126" r="3"/>
+  </g>
+  <g fill="#2DD4BF">
+    <circle cx="790" cy="238" r="3"/><circle cx="858" cy="190" r="4"/>
+    <circle cx="930" cy="228" r="3.5"/><circle cx="1001" cy="178" r="4"/>
+    <circle cx="1072" cy="218" r="3"/><circle cx="1152" cy="185" r="4"/>
+  </g>
+  <circle cx="1006" cy="128" r="12" fill="none" stroke="#67E8F9" stroke-opacity="0.32"/>
+  <circle cx="1001" cy="178" r="11" fill="none" stroke="#2DD4BF" stroke-opacity="0.30"/>
+
+  <rect x="62" y="46" width="8" height="8" rx="2" fill="#2DD4BF"/>
+  <text x="82" y="54" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#9FB9C8">ENGENHARIA  /  DADOS  /  IA APLICADA</text>
+
+  <text x="62" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="800" letter-spacing="-1.2" fill="#F1F5F9">ERIC PIMENTEL</text>
+  <text x="64" y="177" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650" fill="#67E8F9">Da infraestrutura ao insight.</text>
+  <text x="64" y="209" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="450" fill="#C7D8E4">Dados • Sistemas inteligentes • Impacto real</text>
+
+  <g>
+    <rect x="62" y="252" width="198" height="32" rx="16" fill="#102A36" stroke="#2DD4BF" stroke-opacity="0.68"/>
+    <circle cx="80" cy="268" r="4" fill="#2DD4BF"/>
+    <text x="94" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#C9F8F0">SUSTENTABILIDADE</text>
+    <rect x="272" y="252" width="118" height="32" rx="16" fill="#111F35" stroke="#67E8F9" stroke-opacity="0.56"/>
+    <circle cx="290" cy="268" r="4" fill="#67E8F9"/>
+    <text x="304" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#D7F8FF">IOT / EDGE</text>
+    <rect x="402" y="252" width="154" height="32" rx="16" fill="#211C39" stroke="#A78BFA" stroke-opacity="0.56"/>
+    <circle cx="420" cy="268" r="4" fill="#A78BFA"/>
+    <text x="434" y="273" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05" fill="#E4DDFE">DATA SCIENCE</text>
+  </g>
+
+  <text x="1138" y="45" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#6F8A9B">FIELD NOTES / 2026</text>
+  <path d="M 62 311 L 1138 311" stroke="#254154" stroke-width="1"/>
+  <text x="62" y="328" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.2" fill="#6F8A9B">APRENDER • CONSTRUIR • VALIDAR • COMPARTILHAR</text>
+  <text x="1138" y="328" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.2" fill="#6F8A9B">BELÉM, PARÁ — BRASIL</text>
+</svg>
