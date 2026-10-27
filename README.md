@@ -82,9 +82,15 @@ Minha formação vem se organizando em torno de quatro eixos que se alimentam mu
 
 Essa formação técnica também se conecta à participação no **Programa Embaixadores Estudantis Google Brasil 2026**, que me permite explorar e compartilhar aplicações do ecossistema Google em aprendizagem, dados e desenvolvimento.
 
-## Stack tecnológica — dados e sistemas inteligentes no centro
+## Tecnologias e métodos — ferramentas com contexto
 
-A organização abaixo acompanha a forma como trabalho e estudo: primeiro dados e modelos; depois pipelines, IA, sistemas embarcados e infraestrutura. Os ícones usam uma grade visual compacta, em vez de selos retangulares.
+Esta seção reúne ferramentas utilizadas, estudadas ou exploradas nos projetos públicos. **A presença de um ícone, isoladamente, não significa experiência profissional avançada nem uso em produção.** Para avaliar minha experiência prática, consulte os repositórios vinculados acima: o README, o código, os testes e o estágio de desenvolvimento são as evidências relevantes.
+
+- **Uso demonstrado em projetos:** Python, Pandas, Streamlit, Plotly, JavaScript, HTML/CSS, CSV/Parquet, testes automatizados e GitHub Actions — as combinações variam de acordo com cada projeto.
+- **Em aprofundamento e experimentação:** Ciência de Dados, IA generativa e agentes, análise geoespacial, IoT/Edge AI, 5G/Gêmeos Digitais e Interação Humano-Computador.
+- **Ferramentas e plataformas em estudo ou interesse:** os demais ícones e nomes abaixo não devem ser interpretados automaticamente como experiência produtiva ou domínio especializado.
+
+A lista funciona como um mapa de interesses e aprendizagem; os repositórios constituem a evidência verificável.
 
 ### Ciência de Dados · Machine Learning
 
