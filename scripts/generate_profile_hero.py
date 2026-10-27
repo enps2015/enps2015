@@ -16,13 +16,14 @@ with tempfile.TemporaryDirectory() as tmp:
     png_path = tmp / "hero.png"
     full_gif = tmp / "hero-full.gif"
 
-    # librsvg renders the same source asset that is used as the static fallback.
+    # ImageMagick is preinstalled on GitHub-hosted Ubuntu runners.
     subprocess.run(
-        ["rsvg-convert", "-w", str(WIDTH), "-h", str(HEIGHT), "-o", str(png_path), str(SVG)],
+        ["magick", "-background", "#07111F", "-density", "120",
+         str(SVG), "-resize", f"{WIDTH}x{HEIGHT}", str(png_path)],
         check=True,
     )
     base_rgb = Image.open(png_path).convert("RGB")
-    # Use one shared palette so all frames retain identical background pixels.
+    # Share one palette so unchanged background pixels are identical in each frame.
     base = base_rgb.quantize(colors=64, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.NONE)
     palette_data = base.getpalette()
     palette = [tuple(palette_data[i:i+3]) for i in range(0, len(palette_data), 3)]
@@ -37,7 +38,7 @@ with tempfile.TemporaryDirectory() as tmp:
     teal = nearest((45, 212, 191))
     white = nearest((224, 251, 255))
 
-    # Coordinates follow the cyan/teal signal paths in the SVG, scaled to 900x270.
+    # Coordinates follow the signal paths in the hero SVG, scaled to 900x270.
     route_a = [(500, 53), (560, 62), (620, 93), (666, 105), (710, 88), (760, 77), (812, 105), (868, 95)]
     route_b = [(513, 176), (570, 166), (630, 158), (688, 177), (746, 188), (802, 176), (851, 160), (885, 169)]
     frames = []
@@ -62,7 +63,7 @@ with tempfile.TemporaryDirectory() as tmp:
         disposal=1,
     )
 
-    # Optimize frame rectangles to avoid re-encoding the entire banner every frame.
+    # Optimize frame rectangles; avoids re-encoding the whole banner per frame.
     subprocess.run(
         ["magick", str(full_gif), "-coalesce", "-layers", "Optimize", str(OUTPUT)],
         check=True,
