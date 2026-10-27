@@ -81,15 +81,15 @@ Meu jeito de aprender é mão na massa: construir protótipos, documentar decis�
 
 <p align="center">
   <a href="https://github.com/enps2015">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=enps2015&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=2DD4BF&text_color=C7D8E4" alt="Estatísticas públicas do GitHub de Eric Pimentel" />
+    <img height="165" src="./profile/stats.svg" alt="Estatísticas públicas do GitHub de Eric Pimentel" />
   </a>
   <a href="https://github.com/enps2015?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=enps2015&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D8E4" alt="Distribuição de linguagens nos repositórios públicos" />
+    <img height="165" src="./profile/top-langs.svg" alt="Linguagens detectadas nos repositórios públicos" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Os cartões dependem de um serviço externo e podem ter cache ou indisponibilidade. A distribuição de linguagens descreve código detectado nos repositórios — não mede, por si só, domínio técnico.</sub>
+  <sub>Os cartões são gerados pelo GitHub Actions, armazenados neste repositório e atualizados diariamente. As métricas representam atividade pública; linguagens detectadas não medem, por si só, domínio técnico.</sub>
 </p>
 
 ### 🐍 Contribuições ao longo do tempo
