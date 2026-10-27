@@ -1,167 +1,178 @@
 <p align="center">
-  <img src="./assets/profile-hero.gif" width="100%" alt="Banner animado de Eric Pimentel — Da água ao dado. Do dado à decisão. Engenharia, dados, IA e impacto socioambiental.">
+  <img src="./assets/profile-hero.gif" width="100%" alt="Banner animado de Eric Pimentel — Da água ao dado. Do dado à decisão. Engenharia, dados, IA e sistemas inteligentes.">
 </p>
 
 <p align="center">
-  <a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-VER_PROJETOS-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir portfólio"></a>
-  <a href="https://github.com/enps2015?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORAR_PROJETOS-182338?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"></a>
+  <a href="https://enps2015.github.io/padawan-data-portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-EXPLORAR_PROJETOS-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar portfólio"></a>
+  <a href="https://github.com/enps2015?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-182338?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"></a>
   <a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/CONTATO-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar pelo LinkedIn"></a>
 </p>
 
 <p align="center">
-  <strong>Não estudo tecnologia em abstrato: parto de problemas reais e procuro formas melhores de compreendê-los.</strong>
+  <strong>Parto da engenharia e do saneamento para investigar problemas com dados, desenvolver soluções com IA e aproximar tecnologia das decisões do mundo real.</strong>
 </p>
 
 ---
 
-## De onde eu venho — e por que isso importa
+## De onde venho — e como cheguei até aqui
 
-Sou engenheiro eletricista e trabalho com saneamento em Belém do Pará. Minha relação com tecnologia não começou numa tela: começou em sistemas que precisam funcionar no mundo real, onde operação, confiabilidade e consequências para as pessoas não são conceitos teóricos.
+Sou engenheiro eletricista e trabalho com saneamento em Belém do Pará. Minha relação com tecnologia começa em sistemas que precisam funcionar de verdade: operação, confiabilidade, sinais, falhas e consequências para as pessoas. Foi essa experiência que direcionou minha curiosidade para uma pergunta: **o que os dados podem revelar sobre um sistema — e como transformar essa informação em uma decisão melhor?**
 
-A formação em Engenharia Elétrica me ensinou a pensar em sistemas; Análise e Desenvolvimento de Sistemas aproximou esse raciocínio do software; DevOps, automação e infraestrutura ampliaram o olhar para o ciclo completo de uma solução. Hoje aprofundo Ciência de Dados, análise geoespacial e IA aplicada à sustentabilidade.
+A formação em Engenharia Elétrica me ensinou a pensar em sistemas. Análise e Desenvolvimento de Sistemas aproximou esse raciocínio do software; DevOps e automação ampliaram minha visão sobre como construir, integrar e manter soluções. Hoje, aprofundo Ciência de Dados, IA aplicada, análise geoespacial e sistemas inteligentes, com atenção especial aos desafios de água, saneamento, clima, saúde e sustentabilidade na Amazônia.
 
-A pergunta que conecta essas etapas é simples: **o que conseguimos compreender quando dados que estavam separados passam a conversar?** Como transformar séries temporais, indicadores públicos, território e telemetria em evidências que ajudem alguém a decidir melhor?
+<img src="./assets/profile-journey.svg" width="100%" alt="Mapa visual da trajetória: Engenharia Elétrica → Saneamento → Software e DevOps → Ciência de Dados e IA → Sistemas inteligentes e cognição humana.">
 
-É daí que vem o meu recorte: **Amazônia, água, saneamento, clima, sustentabilidade e cidades inteligentes**. Não estudo essas áreas como palavras da moda; quero experimentar como engenharia, dados e IA podem ajudar a investigar problemas reais.
+Não quero acumular tecnologias como uma lista. Quero **conectar engenharia, dados e inteligência a contextos concretos** — e entender também como as pessoas aprendem, interpretam informação e interagem com os sistemas que construímos.
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <p align="center"><strong>01 · REALIDADE</strong></p>
-      <p align="center">Água, saneamento, clima, território e serviços que afetam a vida das pessoas.</p>
-    </td>
-    <td width="25%" valign="top">
-      <p align="center"><strong>02 · DADOS</strong></p>
-      <p align="center">Fontes abertas, séries temporais, indicadores, geodados e telemetria.</p>
-    </td>
-    <td width="25%" valign="top">
-      <p align="center"><strong>03 · INTELIGÊNCIA</strong></p>
-      <p align="center">Análise, automação, experimentos de IA e interfaces que explicam.</p>
-    </td>
-    <td width="25%" valign="top">
-      <p align="center"><strong>04 · DECISÃO</strong></p>
-      <p align="center">Informação compreensível para investigar, priorizar e agir melhor.</p>
-    </td>
-  </tr>
-</table>
+## Projetos: problemas reais, investigação e protótipos
 
-É esse fio condutor — **do sistema real à evidência; da evidência à decisão** — que conecta os projetos abaixo.
+<a href="https://github.com/enps2015/iara-data-hub"><img align="right" width="39%" src="https://raw.githubusercontent.com/enps2015/iara-data-hub/main/img/iara_cover.png" alt="Capa do IARA Data Hub, observatório de água, saneamento e saúde na Região Metropolitana de Belém"></a>
+<h3>🌊 IARA Data Hub — água, saneamento e saúde na Amazônia urbana</h3>
+<p><strong>A pergunta:</strong> o que aparece quando indicadores de saneamento, internações por doenças hídricas, população e clima são analisados em conjunto?</p>
+<p>O IARA Data Hub é um observatório de dados para a Região Metropolitana de Belém. Conecta fontes públicas como SNIS/SINISA, DATASUS/SIH, IBGE e INMET para investigar lacunas de informação, desigualdades entre municípios e relações entre saneamento, saúde e clima. O recorte estruturado reúne sete municípios e o período de 2017 a 2025, respeitando as diferenças de cobertura e atualização entre as fontes.</p>
+<p>O objetivo não é usar um gráfico para declarar causalidade: é tornar os dados comparáveis, explicitar limitações e ajudar a formular perguntas melhores sobre a realidade local.</p>
+<p><strong>Foco técnico:</strong> integração de dados · análise exploratória · indicadores · visualização · geografia</p>
+<p><a href="https://github.com/enps2015/iara-data-hub"><strong>Explorar o projeto no GitHub ↗</strong></a></p>
+<br clear="right">
 
-## Projetos com uma pergunta por trás
+<hr>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/enps2015/projeto_IARA">
-        <img src="https://raw.githubusercontent.com/enps2015/projeto_IARA/main/assets/images/captura_tela01.png" width="100%" alt="Tela do projeto IARA, com visualização de dados socioambientais">
-      </a>
-      <h3>🌿 IARA · Amazônia em dados</h3>
-      <p><strong>A pergunta:</strong> como tornar indicadores socioambientais mais acessíveis para quem precisa entendê-los?</p>
-      <p>Um painel de impacto socioambiental que aproxima indicadores climáticos e socioeconômicos, mapas regionais e análise exploratória. A camada de IA — a assistente Iara, baseada no Gemini — procura traduzir os resultados filtrados em sínteses acessíveis e recomendações contextualizadas. O desafio não é apenas exibir gráficos: é conectar variáveis, território e explicação.</p>
-      <sub>CIÊNCIA DE DADOS · PYTHON · STREAMLIT · PLOTLY</sub>
-      <p><a href="https://github.com/enps2015/projeto_IARA"><strong>Conhecer o projeto ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/enps2015/guardiao-das-tartaruguinhas">
-        <img src="https://raw.githubusercontent.com/enps2015/guardiao-das-tartaruguinhas/main/assets/screenshots/tela01.png" width="100%" alt="Painel de monitoramento do projeto Guardião das Tartaruguinhas">
-      </a>
-      <h3>🐢 Guardião das Tartaruguinhas</h3>
-      <p><strong>A pergunta:</strong> como transformar anotações de campo em acompanhamento útil para a conservação?</p>
-      <p>Criado a partir da necessidade de digitalizar registros manuais de uma comunidade ribeirinha, o painel organiza o acompanhamento dos ninhos e ajuda voluntários a enxergar onde a atenção é mais necessária. A central de riscos, as fichas por ninho e a linha do tempo interativa transformam registros dispersos em uma história de monitoramento — do acompanhamento à eclosão.</p>
-      <sub>PYTHON · STREAMLIT · VISUALIZAÇÃO · CONSERVAÇÃO</sub>
-      <p><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Conhecer o projeto ↗</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/enps2015/smart-hydrometer-data-simulation">
-        <img src="https://raw.githubusercontent.com/enps2015/enps2015/main/assets/smart-water-architecture.svg" width="100%" alt="Diagrama da simulação de telemetria hídrica, validação, processamento e análise de anomalias">
-      </a>
-      <h3>💧 Hidrômetro Inteligente · Telemetria e dados</h3>
-      <p><strong>A pergunta:</strong> como testar qualidade de dados e detecção de anomalias antes de depender de uma rede física de medidores?</p>
-      <p>Um laboratório de dados sintéticos para estudar a engenharia que vem antes de um painel IoT: geração de telemetria com leituras a cada 15 minutos, perfis de consumo, anomalias simuladas e contexto climático/cultural. Os dados são particionados por cidade e mês, distribuídos em CSV compactado e verificados com contagens e hashes SHA-256. Isso permite experimentar pipelines e validação sem afirmar que exista uma rede física de medidores instalada.</p>
-      <sub>PYTHON · IOT · SÉRIES TEMPORAIS · ENGENHARIA DE DADOS</sub>
-      <p><a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><strong>Conhecer o projeto ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://enps2015.github.io/padawan-data-portfolio/">
-        <img src="https://raw.githubusercontent.com/enps2015/padawan-data-portfolio/main/imagens/header-darth01.png" width="100%" alt="Banner visual do portfólio web Padawan Data">
-      </a>
-      <h3>🚀 Padawan Data · Portfólio e narrativa visual</h3>
-      <p><strong>A pergunta:</strong> como apresentar projetos técnicos de um jeito que desperte curiosidade e facilite a compreensão?</p>
-      <p>Um laboratório de interface, comunicação visual e apresentação de projetos. É a camada de experiência do ecossistema: tecnologia não deve apenas funcionar; precisa também ser explicada e explorável.</p>
-      <sub>HTML · CSS · JAVASCRIPT · UX/UI</sub>
-      <p><a href="https://enps2015.github.io/padawan-data-portfolio/"><strong>Abrir o portfólio ↗</strong></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><img align="right" width="43%" src="./assets/smart-water-architecture.svg" alt="Arquitetura do laboratório Hidrômetro Inteligente: telemetria, validação, processamento e análise de anomalias"></a>
+<h3>💧 Hidrômetro Inteligente — da telemetria à qualidade dos dados</h3>
+<p><strong>A pergunta:</strong> como experimentar pipelines e detecção de anomalias antes de depender de uma rede física de medidores?</p>
+<p>Este laboratório gera telemetria hídrica sintética, com leituras em intervalos de 15 minutos, perfis de consumo e eventos anômalos simulados. Os dados podem ser particionados por cidade e mês, distribuídos em CSV compactado e verificados com contagens e hashes SHA-256. Isso permite testar preparação de séries temporais, qualidade de dados e etapas de ETL sem confundir simulação com infraestrutura implantada.</p>
+<p><strong>Foco técnico:</strong> Python · séries temporais · engenharia de dados · IoT · validação</p>
+<p><a href="https://github.com/enps2015/smart-hydrometer-data-simulation"><strong>Explorar datasets e scripts ↗</strong></a></p>
+<br clear="right">
 
-<p align="center"><a href="https://github.com/enps2015?tab=repositories"><strong>Ver todos os repositórios e experimentos →</strong></a></p>
+<hr>
 
----
+<a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><img align="right" width="39%" src="https://raw.githubusercontent.com/enps2015/guardiao-das-tartaruguinhas/main/assets/screenshots/tela01.png" alt="Tela do painel Guardião das Tartaruguinhas para monitoramento de ninhos"></a>
+<h3>🐢 Guardião das Tartaruguinhas — dados a serviço da conservação</h3>
+<p><strong>A pergunta:</strong> como transformar registros de campo em acompanhamento útil para quem protege ninhos de quelônios?</p>
+<p>O projeto surgiu da necessidade de digitalizar anotações de uma comunidade ribeirinha. O painel organiza o monitoramento, destaca situações de risco e reúne fichas por ninho e uma linha do tempo interativa. A proposta é diminuir a distância entre o registro de uma observação e sua utilidade no trabalho de conservação.</p>
+<p><strong>Foco técnico:</strong> Python · Streamlit · visualização · storytelling de dados</p>
+<p><a href="https://github.com/enps2015/guardiao-das-tartaruguinhas"><strong>Explorar o projeto ↗</strong></a></p>
+<br clear="right">
 
-## O mapa de estudos que conecta meus projetos
+<hr>
 
-Não vejo essas áreas como caixas isoladas. Elas se cruzam no desenvolvimento de soluções:
+<h3>🧠 NeuroOrbis — aprendizagem e atlas neuroanatômico 3D</h3>
+<p><strong>Em desenvolvimento.</strong> Um laboratório de exploração de conhecimento que reúne atlas anatômico 3D, navegação espacial, taxonomia e integrações experimentais de modelos anatômicos. Aqui, meu interesse é aproximar conteúdos complexos de uma experiência de aprendizagem explorável: como organizar a informação, orientar a navegação e deixar clara a relação entre as estruturas? É uma frente educacional e de interação, não uma ferramenta de diagnóstico clínico.</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Dados para compreender sistemas</h3>
-      Ciência de Dados, análise exploratória, indicadores, séries temporais, visualização, dados geoespaciais e Engenharia de Dados.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 IA aplicada</h3>
-      Aprendizado de máquina, IA generativa, agentes inteligentes e experimentos orientados a problemas específicos — com atenção aos limites e à validação.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Sistemas conectados</h3>
-      IoT, sistemas embarcados, Edge AI, TinyML, cidades inteligentes e Gêmeos Digitais: aproximar dados digitais do comportamento do mundo físico.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Interfaces e aprendizagem</h3>
-      UX/UI, visualização cognitiva, neuroaprendizagem e design de experiências que ajudem as pessoas a entender informações complexas.
-    </td>
-  </tr>
-</table>
+<h3>🌐 DT Academy — tornar Gêmeos Digitais e 5G mais compreensíveis</h3>
+<p>Uma iniciativa educacional que aproxima formação em Gêmeos Digitais e 5G de infográficos, design de informação e princípios de aprendizagem. O projeto nasce da experiência em construir materiais e recursos para explicar conceitos técnicos sem reduzir a complexidade do assunto.</p>
+
+## Formação que amplia meu campo de atuação
+
+### Gêmeo Digital com 5G · TIC51
+
+O curso levou-me a explorar projetos e materiais ligados a Gêmeos Digitais, conectividade e aplicação prática. Terminei a formação em **10º lugar no ranking final dos alunos** e recebi indicação para a etapa da Residência Tecnológica em Sorocaba, no polo UniFacens. Como a residência era totalmente presencial, não consegui me inscrever. Ainda assim, fiquei muito feliz com o resultado: foi um reconhecimento concreto do trabalho desenvolvido ao longo do curso.
+
+### InsurMinds · I2A2 — agentes inteligentes aplicados a seguros
+
+O InsurMinds aproximou meu estudo de agentes inteligentes de um contexto de negócio específico: seguros. O que mais me interessa nesse campo é ir além de um modelo que apenas responde a uma pergunta e investigar sistemas capazes de cumprir etapas de trabalho, usar ferramentas e contexto, avaliar resultados e manter supervisão humana. Quero aprofundar arquitetura, coordenação, avaliação e confiabilidade de agentes aplicados.
+
+### IA para Sustentabilidade · I2A2 + UFPA
+
+Essa formação ajudou a consolidar o eixo socioambiental dos meus projetos: usar dados e IA para investigar problemas de sustentabilidade, comunicar evidências e construir experiências de análise mais acessíveis. O IARA é uma das expressões práticas desse interesse.
+
+### Ciência de Dados, interação humano-computador e neuroaprendizagem
+
+Minha formação em Ciência de Dados na Gran Faculdade está ligada a uma pergunta técnica: como sair dos dados e chegar a uma explicação útil? As pós-graduações de **Ciência de Dados e Interação Humano-Computador** e **Neuroaprendizagem, Dificuldades e Transtornos** ampliam esse caminho com uma dimensão que considero essencial: as pessoas que vão interpretar e usar os sistemas.
+
+Estudar cognição não é um adorno de interface. É uma forma de investigar como atenção, memória, carga cognitiva, aprendizagem e tomada de decisão influenciam a compreensão de informações. Quero aplicar esse olhar com rigor ao design de visualizações, interfaces de dados, ferramentas educacionais e experiências com agentes inteligentes — sem tratar conceitos de neurociência como justificativa automática para qualquer escolha de design.
+
+## Stack tecnológica — foco em dados, IA e sistemas inteligentes
+
+<h3>📊 Ciência de Dados &amp; Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+<h3>🗄️ Engenharia de Dados, Analytics &amp; Geoespacial</h3>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS">
+</p>
+
+<h3>🤖 IA aplicada &amp; Engenharia de Agentes</h3>
+<p>
+  <img src="https://img.shields.io/badge/IA%20generativa-6E56CF?style=flat-square" alt="IA generativa">
+  <img src="https://img.shields.io/badge/LLMs-4B5563?style=flat-square" alt="Modelos de linguagem">
+  <img src="https://img.shields.io/badge/Agentes%20inteligentes-6D28D9?style=flat-square" alt="Agentes inteligentes">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20prompts-7C3AED?style=flat-square" alt="Engenharia de prompts">
+  <img src="https://img.shields.io/badge/IA%20para%20sustentabilidade-0F766E?style=flat-square" alt="IA aplicada à sustentabilidade">
+</p>
+
+<h3>🌐 IoT, Sistemas Embarcados, Edge AI &amp; Gêmeos Digitais</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico">
+  <img src="https://img.shields.io/badge/BitDogLab%20%2F%20RP2040-7C3AED?style=flat-square" alt="BitDogLab e RP2040">
+  <img src="https://img.shields.io/badge/IoT-0F766E?style=flat-square" alt="Internet das Coisas">
+  <img src="https://img.shields.io/badge/TinyML-155E75?style=flat-square" alt="TinyML">
+  <img src="https://img.shields.io/badge/Edge%20AI-0369A1?style=flat-square" alt="Edge AI">
+  <img src="https://img.shields.io/badge/5G-334155?style=flat-square" alt="5G">
+  <img src="https://img.shields.io/badge/G%C3%AAmeos%20Digitais-4338CA?style=flat-square" alt="Gêmeos Digitais">
+</p>
+
+<h3>⚙️ DevOps &amp; Infraestrutura</h3>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
+  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white" alt="openSUSE">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-475569?style=flat-square" alt="CI/CD">
+</p>
+
+<h3>🧠 Interação Humano-Computador, Neuroaprendizagem &amp; Design</h3>
+<p>
+  <img src="https://img.shields.io/badge/IHC-0E7490?style=flat-square" alt="Interação Humano-Computador">
+  <img src="https://img.shields.io/badge/Neuroaprendizagem-7E22CE?style=flat-square" alt="Neuroaprendizagem">
+  <img src="https://img.shields.io/badge/Neurodesign-6D28D9?style=flat-square" alt="Neurodesign">
+  <img src="https://img.shields.io/badge/UX%2FUI-334155?style=flat-square" alt="UX/UI">
+</p>
+
+<p><sub>Desenvolvimento web (HTML, CSS e JavaScript) entra como camada de interface para demonstrar e comunicar aplicações de dados; não é o eixo central da minha atuação.</sub></p>
+
+## Analytics do GitHub
+
+Os indicadores abaixo são **gerados e atualizados automaticamente por GitHub Actions**. O painel próprio consulta a API do GitHub; os cartões de estatísticas e linguagens têm rotinas diárias próprias; a animação de contribuições é regenerada em seu workflow. As imagens refletem a última execução bem-sucedida — não dados em tempo real — e não são números digitados manualmente no README.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,linux,docker,arduino,raspberrypi,html,css,js,ts,react&theme=dark" alt="Tecnologias do ecossistema de estudos e projetos: Python, PostgreSQL, Git, Linux, Docker, Arduino, Raspberry Pi, desenvolvimento web">
+  <img src="./profile/metrics-overview.svg" width="100%" alt="Painel analítico atualizado automaticamente: repositórios próprios, estrelas, forks, composição de linguagens e eventos públicos recentes">
 </p>
-<p align="center"><sub>Ícones representam ferramentas presentes no meu ecossistema de estudo e projetos; não são uma lista de certificações.</sub></p>
-
-### No momento
-
-Estou aprofundando Ciência de Dados e análise geoespacial, conectando IA aplicada à sustentabilidade e explorando sistemas inteligentes. Também participo do **Programa Embaixadores Estudantis Google Brasil 2026**, uma oportunidade de acompanhar e compartilhar novas formas de aprender e construir com tecnologia.
-
-## Atividade no GitHub
-
-Os cartões abaixo usam o último snapshot de estatísticas que já estava publicado no repositório; são visuais estáveis, em português, e não dependem de uma API de terceiros para aparecer. Eles indicam atividade e composição do código público — **não medem domínio técnico, experiência ou impacto**.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./profile/metricas-github.svg" width="100%" alt="Métricas do GitHub em português: estrelas, commits, pull requests, issues e repositórios contribuídos">
-    </td>
-    <td width="50%" valign="top">
-      <img src="./profile/linguagens-github.svg" width="100%" alt="Distribuição das linguagens dos repositórios públicos em português">
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake-dark.svg" width="100%" alt="Visualização animada das contribuições no GitHub">
+  <img src="./profile/stats.svg" width="49%" alt="Estatísticas públicas do GitHub atualizadas automaticamente">
+  <img src="./profile/top-langs.svg" width="49%" alt="Distribuição das linguagens detectadas nos repositórios públicos, atualizada automaticamente">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enps2015/enps2015/output/github-snake-dark.svg" width="100%" alt="Animação da grade de contribuições do GitHub">
 </p>
 
 ---
 
-## O que espero construir daqui para frente
+## O que quero investigar a seguir
 
-Quero trabalhar em projetos nos quais dados e tecnologia ajudem a **reduzir a distância entre um problema real e uma decisão melhor** — seja no saneamento, no território, na sustentabilidade, na educação ou em sistemas conectados.
+Quero aproximar Ciência de Dados, agentes inteligentes, IoT/Edge AI e cognição humana sem perder o contato com problemas reais. No saneamento e no território, isso significa trabalhar com dados confiáveis e perguntas bem formuladas. Em sistemas inteligentes e experiências de aprendizagem, significa criar interações que sejam úteis, verificáveis e compreensíveis.
 
-Este perfil registra esse percurso: perguntas, protótipos, tentativas, validações e aprendizados. Nem tudo é produto acabado; cada repositório deve deixar claro o que está sendo explorado e o que já pode ser verificado.
+Esse perfil é um registro desse percurso: projetos públicos, laboratórios em desenvolvimento, experiências de formação e perguntas que ainda estou investigando.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ericpimentel-dados/"><img src="https://img.shields.io/badge/LinkedIn-CONVERSAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar no LinkedIn"></a>
@@ -169,4 +180,4 @@ Este perfil registra esse percurso: perguntas, protótipos, tentativas, validaç
   <a href="mailto:enps2006@yahoo.com.br"><img src="https://img.shields.io/badge/E--MAIL-ENTRAR_EM_CONTATO-334155?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Entrar em contato por e-mail"></a>
 </p>
 
-<p align="center"><sub>Eric Pimentel · Belém, Pará, Brasil · Aprender, construir, validar e compartilhar.</sub></p>
+<p align="center"><sub>Eric Pimentel · Belém, Pará, Brasil · Engenharia → Dados → IA → Sistemas humanos.</sub></p>
