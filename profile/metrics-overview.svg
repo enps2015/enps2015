@@ -6,7 +6,7 @@
 <rect x=".5" y=".5" width="1279" height="469" rx="21.5" fill="none" stroke="#29475C"/>
 <text x="34" y="37" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">GITHUB · PAINEL DE SINAIS PÚBLICOS</text>
 <text x="34" y="63" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">Projetos, linguagens e atividade recente</text>
-<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 27/10/2026 · 14:42 UTC</text>
+<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 28/10/2026 · 16:48 UTC</text>
 <text x="1246" y="63" text-anchor="end" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Fonte: API pública do GitHub</text>
 <rect x="34" y="83" width="294" height="88" rx="13" fill="#102337" stroke="#29475C"/>
 <rect x="50" y="100" width="4" height="48" rx="2" fill="#2DD4BF"/>
@@ -42,31 +42,31 @@
 <text x="375.1" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">14/09</text>
 <rect x="420.4" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
 <text x="432.9" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">21/09</text>
-<rect x="478.3" y="341.0" width="25" height="27" rx="4" fill="url(#line)" opacity="0.67"/>
+<rect x="478.3" y="361.0" width="25" height="7" rx="4" fill="url(#line)" opacity="0.58"/>
 <text x="490.8" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">28/09</text>
-<text x="490.8" y="335.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">15</text>
-<rect x="536.1" y="350.0" width="25" height="18" rx="4" fill="url(#line)" opacity="0.63"/>
+<text x="490.8" y="355.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">15</text>
+<rect x="536.1" y="363.0" width="25" height="5" rx="4" fill="url(#line)" opacity="0.57"/>
 <text x="548.6" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">05/10</text>
-<text x="548.6" y="344.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">10</text>
-<rect x="593.9" y="273.0" width="25" height="95" rx="4" fill="url(#line)" opacity="0.95"/>
+<text x="548.6" y="357.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">10</text>
+<rect x="593.9" y="342.0" width="25" height="26" rx="4" fill="url(#line)" opacity="0.66"/>
 <text x="606.4" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">12/10</text>
-<text x="606.4" y="267.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">52</text>
+<text x="606.4" y="336.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">52</text>
 <rect x="651.8" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
 <text x="664.2" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">19/10</text>
-<rect x="709.6" y="350.0" width="25" height="18" rx="4" fill="url(#line)" opacity="0.63"/>
+<rect x="709.6" y="273.0" width="25" height="95" rx="4" fill="url(#line)" opacity="0.95"/>
 <text x="722.1" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">26/10</text>
-<text x="722.1" y="344.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">10</text>
+<text x="722.1" y="267.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">185</text>
 <text x="56" y="397" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5">Amostra limitada aos eventos públicos recentes que a API disponibiliza (até 300 eventos).</text>
 <rect x="798" y="190" width="448" height="224" rx="14" fill="#102337" stroke="#29475C"/>
 <text x="820" y="218" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Composição do código público</text>
 <text x="820" y="237" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5">Por volume de bytes detectado nos repositórios próprios</text>
 <text x="820" y="265" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">HTML</text>
 <rect x="930" y="256" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="256" width="151.48" height="9" rx="4.5" fill="#67E8F9"/>
+<rect x="930" y="256" width="151.35" height="9" rx="4.5" fill="#67E8F9"/>
 <text x="1220" y="265" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">79.7%</text>
 <text x="820" y="292" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Jupyter Notebook</text>
 <rect x="930" y="283" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="283" width="32.28" height="9" rx="4.5" fill="#2DD4BF"/>
+<rect x="930" y="283" width="32.25" height="9" rx="4.5" fill="#2DD4BF"/>
 <text x="1220" y="292" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">17.0%</text>
 <text x="820" y="319" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">TypeScript</text>
 <rect x="930" y="310" width="190" height="9" rx="4.5" fill="#14273A"/>
@@ -74,11 +74,11 @@
 <text x="1220" y="319" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">1.3%</text>
 <text x="820" y="346" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Python</text>
 <rect x="930" y="337" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="337" width="1.32" height="9" rx="4.5" fill="#A78BFA"/>
+<rect x="930" y="337" width="1.41" height="9" rx="4.5" fill="#A78BFA"/>
 <text x="1220" y="346" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">0.7%</text>
-<text x="820" y="373" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">CSS</text>
+<text x="820" y="373" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">JavaScript</text>
 <rect x="930" y="364" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="364" width="1.10" height="9" rx="4.5" fill="#F4B860"/>
+<rect x="930" y="364" width="1.15" height="9" rx="4.5" fill="#F4B860"/>
 <text x="1220" y="373" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">0.6%</text>
 <path d="M34 435H1246" stroke="#29475C"/>
 <text x="34" y="453" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Indicadores de atividade pública; não representam proficiência, certificações ou impacto dos projetos.</text>
