@@ -6,7 +6,7 @@
 <rect x=".5" y=".5" width="1279" height="469" rx="21.5" fill="none" stroke="#29475C"/>
 <text x="34" y="37" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">GITHUB · PAINEL DE SINAIS PÚBLICOS</text>
 <text x="34" y="63" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">Projetos, linguagens e atividade recente</text>
-<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 03/11/2026 · 18:01 UTC</text>
+<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 04/11/2026 · 18:13 UTC</text>
 <text x="1246" y="63" text-anchor="end" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Fonte: API pública do GitHub</text>
 <rect x="34" y="83" width="294" height="88" rx="13" fill="#102337" stroke="#29475C"/>
 <rect x="50" y="100" width="4" height="48" rx="2" fill="#2DD4BF"/>
@@ -40,9 +40,8 @@
 <text x="317.3" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">14/09</text>
 <rect x="362.6" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
 <text x="375.1" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">21/09</text>
-<rect x="420.4" y="368.0" width="25" height="0" rx="4" fill="url(#line)" opacity="0.55"/>
+<rect x="420.4" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
 <text x="432.9" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">28/09</text>
-<text x="432.9" y="362.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">1</text>
 <rect x="478.3" y="364.0" width="25" height="4" rx="4" fill="url(#line)" opacity="0.57"/>
 <text x="490.8" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">05/10</text>
 <text x="490.8" y="358.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">10</text>
