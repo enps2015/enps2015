@@ -6,7 +6,7 @@
 <rect x=".5" y=".5" width="1279" height="469" rx="21.5" fill="none" stroke="#29475C"/>
 <text x="34" y="37" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">GITHUB · PAINEL DE SINAIS PÚBLICOS</text>
 <text x="34" y="63" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">Projetos, linguagens e atividade recente</text>
-<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 09/11/2026 · 21:01 UTC</text>
+<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 10/11/2026 · 18:11 UTC</text>
 <text x="1246" y="63" text-anchor="end" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Fonte: API pública do GitHub</text>
 <rect x="34" y="83" width="294" height="88" rx="13" fill="#102337" stroke="#29475C"/>
 <rect x="50" y="100" width="4" height="48" rx="2" fill="#2DD4BF"/>
@@ -53,8 +53,9 @@
 <rect x="651.8" y="363.0" width="25" height="5" rx="4" fill="url(#line)" opacity="0.57"/>
 <text x="664.2" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">02/11</text>
 <text x="664.2" y="357.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">14</text>
-<rect x="709.6" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
+<rect x="709.6" y="368.0" width="25" height="0" rx="4" fill="url(#line)" opacity="0.55"/>
 <text x="722.1" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">09/11</text>
+<text x="722.1" y="362.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">2</text>
 <text x="56" y="397" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5">Amostra limitada aos eventos públicos recentes que a API disponibiliza (até 300 eventos).</text>
 <rect x="798" y="190" width="448" height="224" rx="14" fill="#102337" stroke="#29475C"/>
 <text x="820" y="218" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Composição do código público</text>
