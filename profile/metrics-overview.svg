@@ -6,7 +6,7 @@
 <rect x=".5" y=".5" width="1279" height="469" rx="21.5" fill="none" stroke="#29475C"/>
 <text x="34" y="37" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">GITHUB · PAINEL DE SINAIS PÚBLICOS</text>
 <text x="34" y="63" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">Projetos, linguagens e atividade recente</text>
-<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 16/11/2026 · 20:39 UTC</text>
+<text x="1246" y="37" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">ATUALIZADO EM 17/11/2026 · 19:20 UTC</text>
 <text x="1246" y="63" text-anchor="end" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Fonte: API pública do GitHub</text>
 <rect x="34" y="83" width="294" height="88" rx="13" fill="#102337" stroke="#29475C"/>
 <rect x="50" y="100" width="4" height="48" rx="2" fill="#2DD4BF"/>
@@ -54,31 +54,32 @@
 <rect x="651.8" y="358.0" width="25" height="10" rx="4" fill="url(#line)" opacity="0.59"/>
 <text x="664.2" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">09/11</text>
 <text x="664.2" y="352.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">25</text>
-<rect x="709.6" y="366.0" width="25" height="2" rx="4" fill="url(#line)" opacity="0.20"/>
+<rect x="709.6" y="367.0" width="25" height="1" rx="4" fill="url(#line)" opacity="0.56"/>
 <text x="722.1" y="385" text-anchor="middle" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="9">16/11</text>
+<text x="722.1" y="361.0" text-anchor="middle" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">3</text>
 <text x="56" y="397" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5">Amostra limitada aos eventos públicos recentes que a API disponibiliza (até 300 eventos).</text>
 <rect x="798" y="190" width="448" height="224" rx="14" fill="#102337" stroke="#29475C"/>
 <text x="820" y="218" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Composição do código público</text>
 <text x="820" y="237" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5">Por volume de bytes detectado nos repositórios próprios</text>
 <text x="820" y="265" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">HTML</text>
 <rect x="930" y="256" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="256" width="145.72" height="9" rx="4.5" fill="#67E8F9"/>
-<text x="1220" y="265" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">76.7%</text>
+<rect x="930" y="256" width="140.83" height="9" rx="4.5" fill="#67E8F9"/>
+<text x="1220" y="265" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">74.1%</text>
 <text x="820" y="292" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Jupyter Notebook</text>
 <rect x="930" y="283" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="283" width="31.05" height="9" rx="4.5" fill="#2DD4BF"/>
-<text x="1220" y="292" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">16.3%</text>
+<rect x="930" y="283" width="30.01" height="9" rx="4.5" fill="#2DD4BF"/>
+<text x="1220" y="292" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">15.8%</text>
 <text x="820" y="319" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">TypeScript</text>
 <rect x="930" y="310" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="310" width="5.44" height="9" rx="4.5" fill="#7CB7FF"/>
-<text x="1220" y="319" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">2.9%</text>
+<rect x="930" y="310" width="11.64" height="9" rx="4.5" fill="#7CB7FF"/>
+<text x="1220" y="319" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">6.1%</text>
 <text x="820" y="346" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">JavaScript</text>
 <rect x="930" y="337" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="337" width="5.12" height="9" rx="4.5" fill="#A78BFA"/>
-<text x="1220" y="346" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">2.7%</text>
+<rect x="930" y="337" width="4.95" height="9" rx="4.5" fill="#A78BFA"/>
+<text x="1220" y="346" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">2.6%</text>
 <text x="820" y="373" fill="#F2F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Python</text>
 <rect x="930" y="364" width="190" height="9" rx="4.5" fill="#14273A"/>
-<rect x="930" y="364" width="1.36" height="9" rx="4.5" fill="#F4B860"/>
+<rect x="930" y="364" width="1.31" height="9" rx="4.5" fill="#F4B860"/>
 <text x="1220" y="373" text-anchor="end" fill="#9FB6C6" font-family="ui-monospace,Consolas,monospace" font-size="10">0.7%</text>
 <path d="M34 435H1246" stroke="#29475C"/>
 <text x="34" y="453" fill="#9FB6C6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Indicadores de atividade pública; não representam proficiência, certificações ou impacto dos projetos.</text>
